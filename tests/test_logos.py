@@ -26,7 +26,7 @@ def run(*args, script=SCRIPT, env=ENV):
 names = run("--list-logos").splitlines()
 assert set(names) == set(CATALOG) | {"auto", "1c"}
 for name, logo in CATALOG.items():
-    plain = run("--no-color", "--logo="+name)
+    plain = run("--no-color", "--logo="+name, "-s", "Title:OS", "--width=200")
     rows = plain.splitlines()[1:-1]
     lines = [re.sub(r"\$[1-9]", "", line) for line in logo["lines"]]
     width = max(map(len, lines))
@@ -35,12 +35,12 @@ for name, logo in CATALOG.items():
         assert row[:width] == line.ljust(width), (name, repr(row), repr(line))
         assert row[width:width+2] == "  ", name
     assert "\x1b" not in plain, name
-    colored = run("--color", "--logo="+name)
+    colored = run("--color", "--logo="+name, "-s", "Title:OS", "--width=200")
     colored_rows = re.sub(r"\x1b\[[0-9;]*m", "", colored).splitlines()[1:-1]
     assert [row[:width+2] for row in colored_rows[:len(lines)]] == [row[:width+2] for row in rows[:len(lines)]], name
 
 # Exercise auto-selection with representative platform data, without faking host APIs.
-source = SCRIPT.read_text().rsplit("\nСИ = Новый СистемнаяИнформация;", 1)[0]
+source = SCRIPT.read_text().replace('#Использовать "lib"', '#Использовать "'+str(ROOT / "lib")+'"').rsplit("\nСИ = Новый СистемнаяИнформация;", 1)[0]
 path = str(ROOT / "assets/logos.json").replace('"', '""')
 harness = source + '\nЧтение = Новый ЧтениеJSON;\nЧтение.УстановитьСтроку(ФайлТекст("'+path+'"));\nКаталог = ПрочитатьJSON(Чтение);\nЧтение.Закрыть();\n'
 cases = [
@@ -71,6 +71,8 @@ with tempfile.TemporaryDirectory() as directory:
     assert run(script=file).strip() == "Selection OK"
     lone = Path(directory) / "onec-fetch.os"
     lone.write_text(SCRIPT.read_text())
+    import shutil
+    shutil.copytree(ROOT / "lib", Path(directory) / "lib")
     assert "1111111" in run("--no-color", script=lone)
 
 plain = run("--no-color")
@@ -85,5 +87,5 @@ assert run("--logo=archlinux", "--no-color").splitlines()[1] == run("--logo=arch
 for option in ("--logo=does-not-exist", "--logo=", "--unknown"):
     result = subprocess.run([ENGINE, str(SCRIPT), option], capture_output=True)
     assert result.returncode == 2, option
-assert run("--version").strip() == "onec-fetch 1.1.0"
-print(f"PASS: {len(CATALOG)} logos (plain/color, full height, alignment), {len(cases)} OS selection cases, standalone fallback, aliases, JSON and CLI flags.")
+assert run("--version").strip() == "onec-fetch 2.0.0"
+print(f"PASS: {len(CATALOG)} logos (plain/color, full height, alignment), {len(cases)} OS selection cases, missing assets fallback, aliases, JSON and CLI flags.")

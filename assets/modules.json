@@ -1,0 +1,306 @@
+{
+  "break": {
+    "name": "Break",
+    "description": "Print an empty line"
+  },
+  "battery": {
+    "name": "Battery",
+    "description": "Print battery information"
+  },
+  "bios": {
+    "name": "BIOS",
+    "description": "Print first-stage bootloader information (name, version, release date, etc.)"
+  },
+  "bluetooth": {
+    "name": "Bluetooth",
+    "description": "List connected Bluetooth devices"
+  },
+  "bluetoothradio": {
+    "name": "BluetoothRadio",
+    "description": "List Bluetooth radios (supported versions, vendors, etc.)"
+  },
+  "board": {
+    "name": "Board",
+    "description": "Print motherboard name and other information"
+  },
+  "bootmgr": {
+    "name": "Bootmgr",
+    "description": "Print second-stage bootloader information (name, firmware, etc.)"
+  },
+  "brightness": {
+    "name": "Brightness",
+    "description": "Print the current brightness level of your monitors"
+  },
+  "btrfs": {
+    "name": "Btrfs",
+    "description": "Print Linux BTRFS volumes"
+  },
+  "camera": {
+    "name": "Camera",
+    "description": "Print available cameras"
+  },
+  "chassis": {
+    "name": "Chassis",
+    "description": "Print chassis type information (desktop, laptop, etc.)"
+  },
+  "codec": {
+    "name": "Codec",
+    "description": "Print hardware video acceleration codec types (decode / encode)"
+  },
+  "cpu": {
+    "name": "CPU",
+    "description": "Print CPU name, frequency, etc."
+  },
+  "cpucache": {
+    "name": "CPUCache",
+    "description": "Print CPU cache sizes"
+  },
+  "cpuusage": {
+    "name": "CPUUsage",
+    "description": "Print CPU usage. Collecting data takes some time"
+  },
+  "colors": {
+    "name": "Colors",
+    "description": "Display the terminal's 16-color palette"
+  },
+  "command": {
+    "name": "Command",
+    "description": "Run custom shell scripts"
+  },
+  "cursor": {
+    "name": "Cursor",
+    "description": "Print cursor style name"
+  },
+  "custom": {
+    "name": "Custom",
+    "description": "Print a custom string, with or without key"
+  },
+  "datetime": {
+    "name": "DateTime",
+    "description": "Print the current date and time"
+  },
+  "display": {
+    "name": "Display",
+    "description": "Print resolutions, refresh rates, etc"
+  },
+  "disk": {
+    "name": "Disk",
+    "description": "Print partitions, space usage, file system, etc"
+  },
+  "diskio": {
+    "name": "DiskIO",
+    "description": "Print physical disk I/O throughput"
+  },
+  "de": {
+    "name": "DE",
+    "description": "Print desktop environment name"
+  },
+  "dns": {
+    "name": "DNS",
+    "description": "Print configured DNS servers"
+  },
+  "editor": {
+    "name": "Editor",
+    "description": "Print information about the default editor ($VISUAL or $EDITOR)"
+  },
+  "font": {
+    "name": "Font",
+    "description": "Print system font names"
+  },
+  "gamepad": {
+    "name": "Gamepad",
+    "description": "List connected gamepads"
+  },
+  "gpu": {
+    "name": "GPU",
+    "description": "Print GPU names, memory sizes, types, etc"
+  },
+  "host": {
+    "name": "Host",
+    "description": "Print your computer's product name"
+  },
+  "icons": {
+    "name": "Icons",
+    "description": "Print icon style name"
+  },
+  "initsystem": {
+    "name": "InitSystem",
+    "description": "Print init system (pid 1) name and version"
+  },
+  "kernel": {
+    "name": "Kernel",
+    "description": "Print system kernel version"
+  },
+  "keyboard": {
+    "name": "Keyboard",
+    "description": "List connected keyboards"
+  },
+  "lm": {
+    "name": "LM",
+    "description": "Print login manager (desktop manager) name and version"
+  },
+  "localip": {
+    "name": "LocalIp",
+    "description": "List local IP addresses (IPv4 or IPv6), MAC addresses, etc"
+  },
+  "loadavg": {
+    "name": "Loadavg",
+    "description": "Print system load averages"
+  },
+  "locale": {
+    "name": "Locale",
+    "description": "Print system locale name"
+  },
+  "logo": {
+    "name": "Logo",
+    "description": "Query built-in logo for JSON output"
+  },
+  "media": {
+    "name": "Media",
+    "description": "Print the name of the currently playing song"
+  },
+  "memory": {
+    "name": "Memory",
+    "description": "Print system memory usage information"
+  },
+  "mouse": {
+    "name": "Mouse",
+    "description": "List connected mice"
+  },
+  "monitor": {
+    "name": "Monitor",
+    "description": "Same as Display module, but with a different default output format"
+  },
+  "netio": {
+    "name": "NetIO",
+    "description": "Print network I/O throughput"
+  },
+  "opencl": {
+    "name": "OpenCL",
+    "description": "Print the highest OpenCL version supported by the GPU"
+  },
+  "opengl": {
+    "name": "OpenGL",
+    "description": "Print the highest OpenGL version supported by the GPU"
+  },
+  "os": {
+    "name": "OS",
+    "description": "Print the OS or Linux distribution name and version"
+  },
+  "packages": {
+    "name": "Packages",
+    "description": "List installed package managers and count of installed packages"
+  },
+  "physicaldisk": {
+    "name": "PhysicalDisk",
+    "description": "Print physical disk information"
+  },
+  "physicalmemory": {
+    "name": "PhysicalMemory",
+    "description": "Print system physical memory devices"
+  },
+  "player": {
+    "name": "Player",
+    "description": "Print the music player name that is currently active"
+  },
+  "poweradapter": {
+    "name": "PowerAdapter",
+    "description": "Print power adapter name and charging watts"
+  },
+  "processes": {
+    "name": "Processes",
+    "description": "Print number of running processes and threads"
+  },
+  "publicip": {
+    "name": "PublicIp",
+    "description": "Print your public IP address and related information"
+  },
+  "separator": {
+    "name": "Separator",
+    "description": "Print a separator line"
+  },
+  "shell": {
+    "name": "Shell",
+    "description": "Print the current shell name and version"
+  },
+  "sound": {
+    "name": "Sound",
+    "description": "Print sound devices, volume levels, etc"
+  },
+  "swap": {
+    "name": "Swap",
+    "description": "Print swap (paging file) space usage"
+  },
+  "terminal": {
+    "name": "Terminal",
+    "description": "Print the current terminal name and version"
+  },
+  "terminalfont": {
+    "name": "TerminalFont",
+    "description": "Print the font name and size used by the current terminal"
+  },
+  "terminalsize": {
+    "name": "TerminalSize",
+    "description": "Print the current terminal size"
+  },
+  "terminaltheme": {
+    "name": "TerminalTheme",
+    "description": "Print the current terminal theme (foreground and background colors)"
+  },
+  "theme": {
+    "name": "Theme",
+    "description": "Print the current desktop environment theme"
+  },
+  "title": {
+    "name": "Title",
+    "description": "Print the title, including your username and hostname"
+  },
+  "top": {
+    "name": "Top",
+    "description": "Print processes with the highest CPU, memory or disk I/O usage"
+  },
+  "tpm": {
+    "name": "TPM",
+    "description": "Print information about the Trusted Platform Module (TPM) security device"
+  },
+  "users": {
+    "name": "Users",
+    "description": "Print users who are currently logged in"
+  },
+  "uptime": {
+    "name": "Uptime",
+    "description": "Print how long the system has been running"
+  },
+  "version": {
+    "name": "Version",
+    "description": "Print the Fastfetch version and build information"
+  },
+  "vulkan": {
+    "name": "Vulkan",
+    "description": "Print the highest Vulkan version supported by the GPU"
+  },
+  "wallpaper": {
+    "name": "Wallpaper",
+    "description": "Print the file path of the current wallpaper"
+  },
+  "weather": {
+    "name": "Weather",
+    "description": "Print weather information"
+  },
+  "wifi": {
+    "name": "Wifi",
+    "description": "Print connected Wi-Fi info (SSID, connection and security protocol)"
+  },
+  "wm": {
+    "name": "WM",
+    "description": "Print the window manager name and version"
+  },
+  "wmtheme": {
+    "name": "WMTheme",
+    "description": "Print the current window manager theme"
+  },
+  "zpool": {
+    "name": "Zpool",
+    "description": "Print ZFS storage pools"
+  }
+}

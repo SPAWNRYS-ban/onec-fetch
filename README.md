@@ -1,23 +1,28 @@
 # onec-fetch
 
-Аналог fastfetch на языке 1С: ASCII-логотип, цвета, ОС, CPU, память, uptime и рабочий стол.
+Аналог fastfetch на языке 1С / OneScript: системная сводка, 77 ASCII-логотипов и реестр всех 76 модулей fastfetch 2.69.0.
 
-Логотип выбирается по ОС и дистрибутиву автоматически: 77 вариантов из [fastfetch](https://github.com/fastfetch-cli/fastfetch), включая компактные.
+## Запуск
 
-## Быстрый запуск
+Готовые сборки: [Releases](https://github.com/SPAWNRYS-ban/onec-fetch/releases/latest).
 
 - **Linux x64:** откройте терминал в папке и выполните `./onec-fetch`.
 - **Windows x64:** дважды нажмите `onec-fetch.cmd` — окно останется открытым.
 
 ```sh
-./onec-fetch --no-color    # без цветов
-./onec-fetch --no-logo     # без логотипа
-./onec-fetch --json        # JSON
-./onec-fetch --logo=1c     # логотип 1С
-./onec-fetch --logo=ubuntu # выбрать логотип
-./onec-fetch --list-logos  # список логотипов
+./onec-fetch                      # обычная сводка
+./onec-fetch --all --debug        # все модули и причины недоступности
+./onec-fetch -s CPU:GPU:Memory    # выбранные модули
+./onec-fetch -c config/example.jsonc
+./onec-fetch --json               # данные, статусы и источники
+./onec-fetch --logo=ubuntu        # выбранный логотип; auto — по ОС
+./onec-fetch --no-color --no-logo
+./onec-fetch --list-modules       # список модулей
+./onec-fetch --list-logos         # список логотипов
 ```
 
-В Windows используйте те же параметры с `onec-fetch.cmd`. Linux проверен; Windows-сборка пока без проверки запуском. Нужны стандартные системные библиотеки ОС. GPU определяется только в Windows; диски не выводятся.
+В Windows используйте те же параметры с `onec-fetch.cmd`. Linux проверен на Arch/KDE/Wayland; Windows-сборка требует проверки на Windows. Дополнительные аппаратные/API-модули используют доступные системные утилиты и права; регистрация 76 модулей не означает полный паритет всех полей fastfetch. macOS/BSD пока имеют только общие модули. Подробности: [модули и ограничения](docs/modules.md), [конфигурация и JSON](docs/configuration.md).
 
-Исходник: `onec-fetch.os` (запуск через `oscript onec-fetch.os`). Рядом со скриптом должен находиться каталог `assets`; без него используется логотип 1С. Модуль для 1С:Предприятия и инструкция — в [docs](docs/1c.md). Переносимые архивы собираются командой `python3 scripts/package.py`.
+Исходники запускаются через `oscript onec-fetch.os`; рядом необходим каталог `lib`, для логотипов — `assets`, для Windows API — `helpers`. Готовые архивы собираются командой `python3 scripts/package.py`. Отдельный исходник формы для 1С:Предприятия: [инструкция](docs/1c.md).
+
+Логотипы, реестр и отдельные алгоритмы адаптированы из [fastfetch](https://github.com/fastfetch-cli/fastfetch) под MIT; уведомления находятся в [licenses](licenses/README.md).
