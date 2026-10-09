@@ -1,0 +1,2019 @@
+{
+  "arch": {
+    "aliases": [
+      "arch",
+      "archmerge",
+      "archlinux"
+    ],
+    "colors": [
+      "36",
+      "36"
+    ],
+    "lines": [
+      "                  -`",
+      "                 .o+`",
+      "                `ooo/",
+      "               `+oooo:",
+      "              `+oooooo:",
+      "              -+oooooo+:",
+      "            `/:-:++oooo+:",
+      "           `/++++/+++++++:",
+      "          `/++++++++++++++:",
+      "         `/+++o$2oooooooo$1oooo/`",
+      "        ./$2ooosssso++osssssso$1+`",
+      "$2       .oossssso-````/ossssss+`",
+      "      -osssssso.      :ssssssso.",
+      "     :osssssss/        osssso+++.",
+      "    /ossssssss/        +ssssooo/-",
+      "  `/ossssso+/:-        -:/+osssso+-",
+      " `+sso+:-`                 `.-/+oso:",
+      "`++:.                           `-/+/",
+      ".`                                 `/"
+    ]
+  },
+  "ubuntu": {
+    "aliases": [
+      "ubuntu"
+    ],
+    "colors": [
+      "31",
+      "31"
+    ],
+    "lines": [
+      "                             ....",
+      "              $2.',:clooo:  $1.:looooo:.",
+      "           $2.;looooooooc  $1.oooooooooo'",
+      "        $2.;looooool:,''.  $1:ooooooooooc",
+      "       $2;looool;.         $1'oooooooooo,",
+      "      $2;clool'             $1.cooooooc.  $2,,",
+      "         $2...                $1......  $2.:oo,",
+      "  $1.;clol:,.                        $2.loooo'",
+      " $1:ooooooooo,                        $2'ooool",
+      "$1'ooooooooooo.                        $2loooo.",
+      "$1'ooooooooool                         $2coooo.",
+      " $1,loooooooc.                        $2.loooo.",
+      "   $1.,;;;'.                          $2;ooooc",
+      "       $2...                         $2,ooool.",
+      "    $2.cooooc.              $1..',,'.  $2.cooo.",
+      "      $2;ooooo:.           $1;oooooooc.  $2:l.",
+      "       $2.coooooc,..      $1coooooooooo.",
+      "         $2.:ooooooolc:. $1.ooooooooooo'",
+      "           $2.':loooooo;  $1,oooooooooc",
+      "               $2..';::c'  $1.;loooo:'"
+    ]
+  },
+  "debian": {
+    "aliases": [
+      "debian"
+    ],
+    "colors": [
+      "31",
+      "37"
+    ],
+    "lines": [
+      "        $2_,met$$$$$$$$$$gg.",
+      "     ,g$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$P.",
+      "   ,g$$$$P\"\"       \"\"\"Y$$$$.\".",
+      "  ,$$$$P'              `$$$$$$.",
+      "',$$$$P       ,ggs.     `$$$$b:",
+      "`d$$$$'     ,$P\"'   $1.$2    $$$$$$",
+      " $$$$P      d$'     $1,$2    $$$$P",
+      " $$$$:      $$$.   $1-$2    ,d$$$$'",
+      " $$$$;      Y$b._   _,d$P'",
+      " Y$$$$.    $1`.$2`\"Y$$$$$$$$P\"'",
+      " `$$$$b      $1\"-.__",
+      "  $2`Y$$$$b",
+      "   `Y$$$$.",
+      "     `$$$$b.",
+      "       `Y$$$$b.",
+      "         `\"Y$$b._",
+      "             `\"\"\"\""
+    ]
+  },
+  "fedora": {
+    "aliases": [
+      "fedora"
+    ],
+    "colors": [
+      "34",
+      "37"
+    ],
+    "lines": [
+      "             .',;::::;,'.",
+      "         .';:cccccccccccc:;,.",
+      "      .;cccccccccccccccccccccc;.",
+      "    .:cccccccccccccccccccccccccc:.",
+      "  .;ccccccccccccc;$2.:dddl:.$1;ccccccc;.",
+      " .:ccccccccccccc;$2OWMKOOXMWd$1;ccccccc:.",
+      ".:ccccccccccccc;$2KMMc$1;cc;$2xMMc$1;ccccccc:.",
+      ",cccccccccccccc;$2MMM.$1;cc;$2;WW:$1;cccccccc,",
+      ":cccccccccccccc;$2MMM.$1;cccccccccccccccc:",
+      ":ccccccc;$2oxOOOo$1;$2MMM000k.$1;cccccccccccc:",
+      "cccccc;$20MMKxdd:$1;$2MMMkddc.$1;cccccccccccc;",
+      "ccccc;$2XMO'$1;cccc;$2MMM.$1;cccccccccccccccc'",
+      "ccccc;$2MMo$1;ccccc;$2MMW.$1;ccccccccccccccc;",
+      "ccccc;$20MNc.$1ccc$2.xMMd$1;ccccccccccccccc;",
+      "cccccc;$2dNMWXXXWM0:$1;cccccccccccccc:,",
+      "cccccccc;$2.:odl:.$1;cccccccccccccc:,.",
+      "ccccccccccccccccccccccccccccc:'.",
+      ":ccccccccccccccccccccccc:;,..",
+      " ':cccccccccccccccc::;,."
+    ]
+  },
+  "linuxmint": {
+    "aliases": [
+      "linuxmint"
+    ],
+    "colors": [
+      "32",
+      "37"
+    ],
+    "lines": [
+      "            $2_.-ppOOOOOOqq-._",
+      "         .oOOOOPPPPPPPPPPOOOOo.",
+      "      .oOOOO$1.=oOOOOOOOOOOo=.$2OOOOo.",
+      "    .:OOO$1.=oOOOOOOOOOOOOOOOOo=.$2OOO:.",
+      "   .OOO$1.OOOOOOOOOOOOOOOOOOOOOOOO.$2OOO.",
+      "  .OOO$1.OO    OOO:´   `::´    `:OOO.$2OO:",
+      " .OOO$1.OOO    OO                OOO.$2OOO:",
+      " OOO$1.OOOO    OO    oo    oo    OOOO.$2OOO",
+      ":OOO$1:OOOO    OO    OO    OO    OOOO:$2OOO:",
+      ":OOO$1:OOOO    OO    OO    OO    OOOO:$2OOO:",
+      "'OOO$1'OOOO    OO    OO    OO    OOOO'$2OOO'",
+      " OOO$1'OOOO    OO____OO____OO    OOOO'$2OOO'",
+      " 'OOO$1'OOO    'OOOOOOOOOOOO'    OOOO'$2OOO",
+      "  'OOO$1'OOO                    .OOO'$2OOO'",
+      "   'OOO$1'OOOO:ooooooooooooooo:OOOO'$2OOO'",
+      "    ':OOOo$1'=OOOOOOOOOOOOOOOOO='$2oOOO:'",
+      "      ':OOOOo$1'=OOOOOOOOOOO='$2oOOOO:'",
+      "         ``-OOOOooooooooooOOOO-´´",
+      "             ```-=:OOOO:=-´´´"
+    ]
+  },
+  "manjaro": {
+    "aliases": [
+      "manjaro",
+      "manjaro-arm"
+    ],
+    "colors": [
+      "32"
+    ],
+    "lines": [
+      "██████████████████  ████████",
+      "██████████████████  ████████",
+      "██████████████████  ████████",
+      "██████████████████  ████████",
+      "████████            ████████",
+      "████████  ████████  ████████",
+      "████████  ████████  ████████",
+      "████████  ████████  ████████",
+      "████████  ████████  ████████",
+      "████████  ████████  ████████",
+      "████████  ████████  ████████",
+      "████████  ████████  ████████",
+      "████████  ████████  ████████",
+      "████████  ████████  ████████"
+    ]
+  },
+  "endeavouros": {
+    "aliases": [
+      "endeavouros"
+    ],
+    "colors": [
+      "35",
+      "31",
+      "34"
+    ],
+    "lines": [
+      "                     $2./$1o$3.",
+      "                   $2./$1sssso$3-",
+      "                 $2`:$1osssssss+$3-",
+      "               $2`:+$1sssssssssso$3/.",
+      "             $2`-/o$1ssssssssssssso$3/.",
+      "           $2`-/+$1sssssssssssssssso$3+:`",
+      "         $2`-:/+$1sssssssssssssssssso$3+/.",
+      "       $2`.://o$1sssssssssssssssssssso$3++-",
+      "      $2.://+$1ssssssssssssssssssssssso$3++:",
+      "    $2.:///o$1ssssssssssssssssssssssssso$3++:",
+      "  $2`:////$1ssssssssssssssssssssssssssso$3+++.",
+      "$2`-////+$1ssssssssssssssssssssssssssso$3++++-",
+      " $2`..-+$1oosssssssssssssssssssssssso$3+++++/`",
+      "   $3./++++++++++++++++++++++++++++++/:.",
+      "  `:::::::::::::::::::::::::------``"
+    ]
+  },
+  "alpine": {
+    "aliases": [
+      "alpine"
+    ],
+    "colors": [
+      "34"
+    ],
+    "lines": [
+      "       .hddddddddddddddddddddddh.",
+      "      :dddddddddddddddddddddddddd:",
+      "     /dddddddddddddddddddddddddddd/",
+      "    +dddddddddddddddddddddddddddddd+",
+      "  `sdddddddddddddddddddddddddddddddds`",
+      " `ydddddddddddd++hdddddddddddddddddddy`",
+      ".hddddddddddd+`  `+ddddh:-sdddddddddddh.",
+      "hdddddddddd+`      `+y:    .sddddddddddh",
+      "ddddddddh+`   `//`   `.`     -sddddddddd",
+      "ddddddh+`   `/hddh/`   `:s-    -sddddddd",
+      "ddddh+`   `/+/dddddh/`   `+s-    -sddddd",
+      "ddd+`   `/o` :dddddddh/`   `oy-    .yddd",
+      "hdddyo+ohddyosdddddddddho+oydddy++ohdddh",
+      ".hddddddddddddddddddddddddddddddddddddh.",
+      " `yddddddddddddddddddddddddddddddddddy`",
+      "  `sdddddddddddddddddddddddddddddddds`",
+      "    +dddddddddddddddddddddddddddddd+",
+      "     /dddddddddddddddddddddddddddd/",
+      "      :dddddddddddddddddddddddddd:",
+      "       .hddddddddddddddddddddddh."
+    ]
+  },
+  "nixos": {
+    "aliases": [
+      "nixos"
+    ],
+    "colors": [
+      "34",
+      "36",
+      "34",
+      "36",
+      "34",
+      "36"
+    ],
+    "lines": [
+      "          $1▗▄▄▄       $2▗▄▄▄▄    ▄▄▄▖",
+      "          $1▜███▙       $2▜███▙  ▟███▛",
+      "           $1▜███▙       $2▜███▙▟███▛",
+      "            $1▜███▙       $2▜██████▛",
+      "     $1▟█████████████████▙ $2▜████▛     $3▟▙",
+      "    $1▟███████████████████▙ $2▜███▙    $3▟██▙",
+      "           $6▄▄▄▄▖           $2▜███▙  $3▟███▛",
+      "          $6▟███▛             $2▜██▛ $3▟███▛",
+      "         $6▟███▛               $2▜▛ $3▟███▛",
+      "$6▟███████████▛                  $3▟██████████▙",
+      "$6▜██████████▛                  $3▟███████████▛",
+      "      $6▟███▛ $5▟▙               $3▟███▛",
+      "     $6▟███▛ $5▟██▙             $3▟███▛",
+      "    $6▟███▛  $5▜███▙           $3▝▀▀▀▀",
+      "    $6▜██▛    $5▜███▙ $4▜██████████████████▛",
+      "     $6▜▛     $5▟████▙ $4▜████████████████▛",
+      "           $5▟██████▙         $4▜███▙",
+      "          $5▟███▛▜███▙         $4▜███▙",
+      "         $5▟███▛  ▜███▙         $4▜███▙",
+      "         $5▝▀▀▀    ▀▀▀▀▘         $4▀▀▀▘"
+    ]
+  },
+  "opensuse": {
+    "aliases": [
+      "opensuse"
+    ],
+    "colors": [
+      "32",
+      "37"
+    ],
+    "lines": [
+      "           $2.;ldkO0000Okdl;.",
+      "       .;d00xl:^''''''^:ok00d;.",
+      "     .d00l'                'o00d.",
+      "   .d0Kd'$1  Okxol:;,.          $2:O0d",
+      "  .OK$1KKK0kOKKKKKKKKKKOxo:,      $2lKO.",
+      " ,0K$1KKKKKKKKKKKKKKK0P^$2,,,$1^dx:$2    ;00,",
+      ".OK$1KKKKKKKKKKKKKKKk'$2.oOPPb.$1'0k.$2   cKO.",
+      ":KK$1KKKKKKKKKKKKKKK: $2kKx..dd $1lKd$2   'OK:",
+      "dKK$1KKKKKKKKKOx0KKKd $2^0KKKO' $1kKKc$2   dKd",
+      "dKK$1KKKKKKKKKK;.;oOKx,..$2^$1..;kKKK0.$2  dKd",
+      ":KK$1KKKKKKKKKK0o;...^cdxxOK0O/^^'  $2.0K:",
+      " kKK$1KKKKKKKKKKKKK0x;,,......,;od  $2lKk",
+      " '0K$1KKKKKKKKKKKKKKKKKKKK00KKOo^  $2c00'",
+      "  'kK$1KKOxddxkOO00000Okxoc;''   $2.dKk'",
+      "    l0Ko.                    .c00l'",
+      "     'l0Kk:.              .;xK0l'",
+      "        'lkK0xl:;,,,,;:ldO0kl'",
+      "            '^:ldxkkkkxdl:^'"
+    ]
+  },
+  "opensuse_leap": {
+    "aliases": [
+      "opensuse-leap",
+      "opensuse_leap",
+      "opensuse-leap"
+    ],
+    "colors": [
+      "39"
+    ],
+    "lines": [
+      "          ====",
+      "         ======",
+      "       ==== ====+",
+      "     +====    +====",
+      "   +===+        ====",
+      "  ====            ====",
+      "+===               +====",
+      "====               +====",
+      " =====            ====",
+      "   +===+        =====",
+      "==+  =====    +===+  ===",
+      "====   ==== =====  =====",
+      "  ====  =======   ====",
+      "    ====  ===   ====",
+      "     ====+    ====",
+      "       ==== =====",
+      "         ======",
+      "           =="
+    ]
+  },
+  "opensuse_tumbleweed": {
+    "aliases": [
+      "opensuse-tumbleweed",
+      "opensuse_tumbleweed",
+      "opensuse-tumbleweed"
+    ],
+    "colors": [
+      "39"
+    ],
+    "lines": [
+      "          ,...,",
+      "     .,:lloooooc;.",
+      "   ,ool'     oo,;oo:",
+      " .lo'        oo.   oo:",
+      ".oo.         oo.    oo:",
+      ":ol          oo.    'oo",
+      ":oo         .oo.    .oo.",
+      ".oooooooooooooo.    .oo.",
+      " ;oo.               .oo.",
+      "  'oo,              .oo.",
+      "    \"ooc,',,,,,,,,,,:ooc,,,,,,,,,,,",
+      "       ':cooooooooooooooooooooooooool;.",
+      "                    .oo.             .oo;",
+      "                    .oo.               .oo.",
+      "                    .oo.    'oooooooooo:ooo.",
+      "                    .oo.    'oo.         col",
+      "                    .oo'    'oo          col",
+      "                     coo    'oo          oo'",
+      "                      coc   'oo        .lo,",
+      "                       `oo, 'oo      .:oo",
+      "                         'ooooc,, ,:lol",
+      "                            `''\"clc\"'"
+    ]
+  },
+  "gentoo": {
+    "aliases": [
+      "gentoo"
+    ],
+    "colors": [
+      "35",
+      "37"
+    ],
+    "lines": [
+      "         -/oyddmdhs+:.",
+      "     -o$2dNMMMMMMMMNNmhy+$1-`",
+      "   -y$2NMMMMMMMMMMMNNNmmdhy$1+-",
+      " `o$2mMMMMMMMMMMMMNmdmmmmddhhy$1/`",
+      " om$2MMMMMMMMMMMN$1hhyyyo$2hmdddhhhd$1o`",
+      ".y$2dMMMMMMMMMMd$1hs++so/s$2mdddhhhhdm$1+`",
+      " oy$2hdmNMMMMMMMN$1dyooy$2dmddddhhhhyhN$1d.",
+      "  :o$2yhhdNNMMMMMMMNNNmmdddhhhhhyym$1Mh",
+      "    .:$2+sydNMMMMMNNNmmmdddhhhhhhmM$1my",
+      "       /m$2MMMMMMNNNmmmdddhhhhhmMNh$1s:",
+      "    `o$2NMMMMMMMNNNmmmddddhhdmMNhs$1+`",
+      "  `s$2NMMMMMMMMNNNmmmdddddmNMmhs$1/.",
+      " /N$2MMMMMMMMNNNNmmmdddmNMNdso$1:`",
+      "+M$2MMMMMMNNNNNmmmmdmNMNdso$1/-",
+      "yM$2MNNNNNNNmmmmmNNMmhs+/$1-`",
+      "/h$2MMNNNNNNNNMNdhs++/$1-`",
+      "`/$2ohdmmddhys+++/:$1.`",
+      "  `-//////:--."
+    ]
+  },
+  "kali": {
+    "aliases": [
+      "kali"
+    ],
+    "colors": [
+      "34",
+      "90"
+    ],
+    "lines": [
+      "..............",
+      "            ..,;:ccc,.",
+      "          ......''';lxO.",
+      ".....''''..........,:ld;",
+      "           .';;;:::;,,.x,",
+      "      ..'''.            0Xxoc:,.  ...",
+      "  ....                ,ONkc;,;cokOdc',.",
+      " .                   OMo           ':$2dd$1o.",
+      "                    dMc               :OO;",
+      "                    0M.                 .:o.",
+      "                    ;Wd",
+      "                     ;XO,",
+      "                       ,d0Odlc;,..",
+      "                           ..',;:cdOOd::,.",
+      "                                    .:d;.':;.",
+      "                                       'd,  .'",
+      "                                         ;l   ..",
+      "                                          .o",
+      "                                            c",
+      "                                            .'",
+      "                                             ."
+    ]
+  },
+  "pop": {
+    "aliases": [
+      "pop",
+      "popos"
+    ],
+    "colors": [
+      "36",
+      "37"
+    ],
+    "lines": [
+      "             /////////////",
+      "         /////////////////////",
+      "      ///////$2*767$1////////////////",
+      "    //////$27676767676*$1//////////////",
+      "   /////$276767$1//$27676767$1//////////////",
+      "  /////$2767676$1///$2*76767$1///////////////",
+      " ///////$2767676$1///$276767$1.///$27676*$1///////",
+      "/////////$2767676$1//$276767$1///$2767676$1////////",
+      "//////////$276767676767$1////$276767$1/////////",
+      "///////////$276767676$1//////$27676$1//////////",
+      "////////////,$27676$1,///////$2767$1///////////",
+      "/////////////*$27676$1///////$276$1////////////",
+      "///////////////$27676$1////////////////////",
+      " ///////////////$27676$1///$2767$1////////////",
+      "  //////////////////////$2'$1////////////",
+      "   //////$2.7676767676767676767,$1//////",
+      "    /////$2767676767676767676767$1/////",
+      "      ///////////////////////////",
+      "         /////////////////////",
+      "             /////////////"
+    ]
+  },
+  "void": {
+    "aliases": [
+      "void"
+    ],
+    "colors": [
+      "32",
+      "90"
+    ],
+    "lines": [
+      "                __.;=====;.__",
+      "            _.=+==++=++=+=+===;.",
+      "             -=+++=+===+=+=+++++=_",
+      "        .     -=:``     `--==+=++==.",
+      "       _vi,    `            --+=++++:",
+      "      .uvnvi.       _._       -==+==+.",
+      "     .vvnvnI`    .;==|==;.     :|=||=|.",
+      "$2+QmQQm$1pvvnv;$2 _yYsyQQWUUQQQm #QmQ#$1:$2QQQWUV$QQm.",
+      " $2-QQWQW$1pvvo$2wZ?.wQQQE$1==<$2QWWQ/QWQW.QQWW$1(:$2 jQWQE",
+      "  $2-$QQQQmmU'  jQQQ$1@+=<$2QWQQ)mQQQ.mQQQC$1+;$2jWQQ@'",
+      "   $2-$WQ8Y$1nI:$2   QWQQwgQQWV$1`$2mWQQ.jQWQQgyyWW@!",
+      "     $1-1vvnvv.     `~+++`        ++|+++",
+      "      +vnvnnv,                 `-|===",
+      "       +vnvnvns.           .      :=-",
+      "        -Invnvvnsi..___..=sv=.     `",
+      "          +Invnvnvnnnnnnnnvvnn;.",
+      "            ~|Invnvnvvnvvvnnv}+`",
+      "               -~|{*l}*|~"
+    ]
+  },
+  "rocky": {
+    "aliases": [
+      "rocky"
+    ],
+    "colors": [
+      "32"
+    ],
+    "lines": [
+      "          __wgliliiligw_,",
+      "       _williiiiiiliilililw,",
+      "     _%iiiiiilililiiiiiiiiiii_",
+      "   .Qliiiililiiiiiiililililiilm.",
+      "  _iiiiiliiiiiililiiiiiiiiiiliil,",
+      " .lililiiilililiiiilililililiiiii,",
+      "_liiiiiiliiiiiiiliiiiiF{iiiiiilili,",
+      "jliililiiilililiiili@`  ~ililiiiiiL",
+      "iiiliiiiliiiiiiili>`      ~liililii",
+      "liliiiliiilililii`         -9liiiil",
+      "iiiiiliiliiiiii~             \"4lili",
+      "4ililiiiiilil~|      -w,       )4lf",
+      "-liiiiililiF'       _liig,       )'",
+      " )iiiliii@`       _QIililig,",
+      "  )iiii>`       .Qliliiiililw",
+      "   )<>~       .mliiiiiliiiiiil,",
+      "            _gllilililiililii~",
+      "           giliiiiiiiiiiiiT`",
+      "          -^~$ililili@~~'"
+    ]
+  },
+  "almalinux": {
+    "aliases": [
+      "almalinux",
+      "alma"
+    ],
+    "colors": [
+      "31",
+      "93",
+      "34",
+      "92",
+      "36"
+    ],
+    "lines": [
+      "$1         'c:.",
+      "$1        lkkkx, ..       $2..   ,cc,",
+      "$1        okkkk:ckkx'  $2.lxkkx.okkkkd",
+      "$1        .:llcokkx'  $2:kkkxkko:xkkd,",
+      "$1      .xkkkkdood:  $2;kx,  .lkxlll;",
+      "$1       xkkx.       $2xk'     xkkkkk:",
+      "$1       'xkx.       $2xd      .....,.",
+      "$3      .. $1:xkl'     $2:c      ..''..",
+      "$3    .dkx'  $1.:ldl:'. $2'  $4':lollldkkxo;",
+      "$3  .''lkkko'                     $4ckkkx.",
+      "$3'xkkkd:kkd.       ..  $5;'        $4:kkxo.",
+      "$3,xkkkd;kk'      ,d;    $5ld.   $4':dkd::cc,",
+      "$3 .,,.;xkko'.';lxo.      $5dx,  $4:kkk'xkkkkc",
+      "$3     'dkkkkkxo:.        $5;kx  $4.kkk:;xkkd.",
+      "$3       .....   $5.;dk:.   $5lkk.  $4:;,",
+      "             $5:kkkkkkkdoxkkx",
+      "              ,c,,;;;:xkkd.",
+      "                ;kkkkl...",
+      "                ;kkkkl",
+      "                 ,od;"
+    ]
+  },
+  "centos": {
+    "aliases": [
+      "centos"
+    ],
+    "colors": [
+      "33",
+      "32",
+      "34",
+      "35",
+      "37"
+    ],
+    "lines": [
+      "                 ..",
+      "               .PLTJ.",
+      "              <><><><>",
+      "     $2KKSSV' 4KKK $1LJ$4 KKKL.'VSSKK",
+      "     $2KKV' 4KKKKK $1LJ$4 KKKKAL 'VKK",
+      "     $2V' ' 'VKKKK $1LJ$4 KKKKV' ' 'V",
+      "     $2.4MA.' 'VKK $1LJ$4 KKV' '.4Mb.",
+      "   $4. $2KKKKKA.' 'V $1LJ$4 V' '.4KKKKK $3.",
+      " $4.4D $2KKKKKKKA.'' $1LJ$4 ''.4KKKKKKK $3FA.",
+      "$4<QDD ++++++++++++  $3++++++++++++ GFD>",
+      " '$4VD $3KKKKKKKK'.. $2LJ $1..'KKKKKKKK $3FV",
+      "   $4' $3VKKKKK'. .4 $2LJ $1K. .'KKKKKV $3'",
+      "      $3'VK'. .4KK $2LJ $1KKA. .'KV'",
+      "     $3A. . .4KKKK $2LJ $1KKKKA. . .4",
+      "     $3KKA. 'KKKKK $2LJ $1KKKKK' .4KK",
+      "     $3KKSSA. VKKK $2LJ $1KKKV .4SSKK",
+      "              $2<><><><>",
+      "               $2'MKKM'",
+      "                 $2''"
+    ]
+  },
+  "rhel": {
+    "aliases": [
+      "redhat",
+      "rhel",
+      "rhel",
+      "red hat enterprise linux"
+    ],
+    "colors": [
+      "31"
+    ],
+    "lines": [
+      "           .MMM..:MMMMMMM",
+      "          MMMMMMMMMMMMMMMMMM",
+      "          MMMMMMMMMMMMMMMMMMMM.",
+      "         MMMMMMMMMMMMMMMMMMMMMM",
+      "        ,MMMMMMMMMMMMMMMMMMMMMM:",
+      "        MMMMMMMMMMMMMMMMMMMMMMMM",
+      "  .MMMM'  MMMMMMMMMMMMMMMMMMMMMM",
+      " MMMMMM    `MMMMMMMMMMMMMMMMMMMM.",
+      "MMMMMMMM      MMMMMMMMMMMMMMMMMM .",
+      "MMMMMMMMM.       `MMMMMMMMMMMMM' MM.",
+      "MMMMMMMMMMM.                     MMMM",
+      "`MMMMMMMMMMMMM.                 ,MMMMM.",
+      " `MMMMMMMMMMMMMMMMM.          ,MMMMMMMM.",
+      "    MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM",
+      "      MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM:",
+      "         MMMMMMMMMMMMMMMMMMMMMMMMMMMMMM",
+      "            `MMMMMMMMMMMMMMMMMMMMMMMM:",
+      "                ``MMMMMMMMMMMMMMMMM'"
+    ]
+  },
+  "oracle": {
+    "aliases": [
+      "ol",
+      "oracle"
+    ],
+    "colors": [
+      "31"
+    ],
+    "lines": [
+      "      `-/+++++++++++++++++/-.`",
+      "   `/syyyyyyyyyyyyyyyyyyyyyyys/.",
+      "  :yyyyo/-...............-/oyyyy/",
+      " /yyys-                     .oyyy+",
+      ".yyyy`                       `syyy-",
+      ":yyyo                         /yyy/",
+      ".yyyy`                       `syyy-",
+      " /yyys.                     .oyyyo",
+      "  /yyyyo:-...............-:oyyyy/`",
+      "   `/syyyyyyyyyyyyyyyyyyyyyyys+.",
+      "     `.:/+ooooooooooooooo+/:.`"
+    ]
+  },
+  "raspbian": {
+    "aliases": [
+      "raspbian",
+      "raspberry pi os"
+    ],
+    "colors": [
+      "31",
+      "32"
+    ],
+    "lines": [
+      "   $2`.::///+:/-.        --///+//-:`",
+      " `+oooooooooooo:   `+oooooooooooo:",
+      "  /oooo++//ooooo:  ooooo+//+ooooo.",
+      "  `+ooooooo:-:oo-  +o+::/ooooooo:",
+      "   `:oooooooo+``    `.oooooooo+-",
+      "     `:++ooo/.        :+ooo+/.`$1",
+      "        ...`  `.----.` ``..",
+      "     .::::-``:::::::::.`-:::-`",
+      "    -:::-`   .:::::::-`  `-:::-",
+      "   `::.  `.--.`  `` `.---.``.::`",
+      "       .::::::::`  -::::::::` `",
+      " .::` .:::::::::- `::::::::::``::.",
+      "-:::` ::::::::::.  ::::::::::.`:::-",
+      "::::  -::::::::.   `-::::::::  ::::",
+      "-::-   .-:::-.``....``.-::-.   -::-",
+      " .. ``       .::::::::.     `..`..",
+      "   -:::-`   -::::::::::`  .:::::`",
+      "   :::::::` -::::::::::` :::::::.",
+      "   .:::::::  -::::::::. ::::::::",
+      "    `-:::::`   ..--.`   ::::::.",
+      "      `...`  `...--..`  `...`",
+      "            .::::::::::",
+      "             `.-::::-`"
+    ]
+  },
+  "astra_linux": {
+    "aliases": [
+      "astra",
+      "astra linux",
+      "astra_linux",
+      "astralinux",
+      "astra"
+    ],
+    "colors": [
+      "91",
+      "37"
+    ],
+    "lines": [
+      "                  AA",
+      "                 AaaA",
+      "                Aa$2/\\$1aA",
+      "$1               Aa$2/$1aa$2\\$1aA",
+      "$1              Aa$2/$1aAAa$2\\$1aA",
+      "$1             aA$2/$1aaAAaa$2\\$1Aa",
+      "$1            aA$2/$1aaAAAAaa$2\\$1Aa",
+      "$1  aaaaaaAAAAa$2/$1aaAAAAAAaa$2\\$1aAAAAaaaaa",
+      "$1aAAa$2-----$1aaaaaAAAAAAAAAAaaaaa$2-----$1aAAa",
+      "$1  aAA$2\\ $1aAAAAAAAAAAAAAAAAAAAAAAa$2 /$1AAa",
+      "$1    aAa$2\\$1aAAA$2\\$1AAAA$2\\$1AAAA$2\\$1AAA$2\\$1AAa$2/$1aAa",
+      "$1      aAa$2\\$1aA$2\\\\$1AAA$2\\\\$1AAA$2\\\\$1AA$2\\\\/$1aAa",
+      "$1       aAA$2\\$1aA$2\\\\$1AAA$2\\\\$1AAA$2\\\\$1Aa$2/$1AAa",
+      "$1         aA$2\\$1aA$2\\\\$1AAA$2\\\\$1AAA$2\\\\/$1Aa",
+      "$1         aA$2/$1AA$2\\\\\\$1AA$2\\\\\\$1AA$2\\\\\\$1Aa",
+      "$1        aA$2/\\$1AAa$2\\\\\\$1Aa$2\\\\\\$1Aa$2\\\\\\$1Aa",
+      "$1        aA$2/\\\\$1AAa$2\\\\/\\$1a$2\\\\\\$1Aa$2\\\\$1Aa",
+      "$1       aA$2/$1a$2\\\\\\$1Aa$2\\/$1AA$2\\\\\\\\\\$1Aa$2\\\\$1Aa",
+      "$1       aA$2/$1aA$2\\\\/$1aAa  aAa$2\\\\\\$1Aa$2\\$1Aa",
+      "$1      aA$2/\\$1A$2\\/$1Aa        aA$2\\\\$1A$2\\\\$1Aa",
+      "$1      A$2|/$1aaAa            aAaa$2\\|$1A",
+      "$1     aAaa                    aaAa"
+    ]
+  },
+  "altlinux": {
+    "aliases": [
+      "altlinux",
+      "alt"
+    ],
+    "colors": [
+      "33",
+      "30",
+      "37"
+    ],
+    "lines": [
+      "             ##############",
+      "         ######################",
+      "       ##########################",
+      "     ##+$2####$1#######################",
+      "   #####$2#$1*$2###%+$1######################",
+      "  ########$2%$1*#$2%#####$1###################",
+      " ##########$2##$1*#*$2#######%+$1##############",
+      "#############$2%#############%$1############",
+      "#############$2+################$1##########",
+      "##############$2################*$1#########",
+      "##############$2+################+$1########",
+      "###############$2##########$1###$2+##%$1########",
+      "###############$2+########$1######$2###$1#######",
+      "#############$2*####$1############$2%#+$1#######",
+      "############$2+###$3####$1##########$2%#*$1#######",
+      " ##########$2###*$3######$2+#+$1#####$2+##*$1######",
+      "  #########$2##%$3#####$2:%#####$1###$2###*$1#####",
+      "   ########$2%#+$3######$2#############$1####",
+      "     #####$2##%:$3######$2:############$1##",
+      "       ##$2+##*$3########$2############$1",
+      "         $2###$3#########$2##########$1",
+      "             $3########$2######"
+    ]
+  },
+  "redos": {
+    "aliases": [
+      "redos"
+    ],
+    "colors": [
+      "31",
+      "37"
+    ],
+    "lines": [
+      "╭───────────────╮ ╭───────────────╮",
+      "│###############│ │###############│",
+      "│#+++++++++++++#│ │#+++++++++++++#│",
+      "│#+++++++++++++#│ │#+++++++++++++#│",
+      "│#+++++++++++++#│ │#+++++++++++++#│",
+      "│#+++++++++++++#│ │#+++++++++++++#│",
+      "│#+++++++++++++#│ │#+++++++++++++#│",
+      "│###############│ │###############│",
+      "╰───────────────╯ ╰───────────────╯",
+      "╭───────────────╮                  ",
+      "│###############│                  ",
+      "│#+++++++++++++#│                  ",
+      "│#+++++++++++++#│                  ",
+      "│#+++++++++++++#│                  ",
+      "│#+++++++++++++#│                  ",
+      "│#+++++++++++++#│                  ",
+      "│###############│                  ",
+      "╰───────────────╯                  "
+    ]
+  },
+  "amazon_linux": {
+    "aliases": [
+      "amazon linux",
+      "amazon_linux",
+      "amzn",
+      "amzn"
+    ],
+    "colors": [
+      "37",
+      "38;5;178"
+    ],
+    "lines": [
+      "  ,     $2#_$1",
+      "  ~\\_  $2####_$1",
+      " ~~  \\_$2#####\\$1",
+      " ~~     \\$2###|$1",
+      " ~~       \\$2#/$1 ___",
+      "  ~~       V~' '->",
+      "   ~~~         /",
+      "     ~~._.   _/",
+      "        _/ _/",
+      "      _/m/'"
+    ]
+  },
+  "freebsd": {
+    "aliases": [
+      "freebsd"
+    ],
+    "colors": [
+      "37",
+      "31"
+    ],
+    "lines": [
+      "```                        $2`",
+      "  $1` `.....---...$2....--.```   -/",
+      "  $1+o   .--`         $2/y:`      +.",
+      "   $1yo`:.            $2:o      `+-",
+      "    $1y/               $2-/`   -o/",
+      "   $1.-                  $2::/sy+:.",
+      "   $1/                     $2`--  /",
+      "  $1`:                          $2:`",
+      "  $1`:                          $2:`",
+      "   $1/                          $2/",
+      "   $1.-                        $2-.",
+      "    $1--                      $2-.",
+      "     $1`:`                  $2`:`",
+      "       .--             `--.",
+      "          .---.....----."
+    ]
+  },
+  "openbsd": {
+    "aliases": [
+      "openbsd"
+    ],
+    "colors": [
+      "33",
+      "37",
+      "36",
+      "31",
+      "90"
+    ],
+    "lines": [
+      "$3                                     _",
+      "                                    (_)",
+      "$1              |    .",
+      "$1          .   |L  /|   .         $3 _",
+      "$1      _ . |\\ _| \\--+._/| .       $3(_)",
+      "$1     / ||\\| Y J  )   / |/| ./",
+      "    J  |)'( |        ` F`.'/       $3 _",
+      "$1  -<|  F         __     .-<        $3(_)",
+      "$1    | /       .-'$3. $1`.  /$3-. $1L___",
+      "    J \\      <    $3\\ $1 | | $5O$3\\$1|.-' $3 _",
+      "$1  _J \\  .-    \\$3/ $5O $3| $1| \\  |$1F    $3(_)",
+      "$1 '-F  -<_.     \\   .-'  `-' L__",
+      "__J  _   _.     >-'  $1)$4._.   $1|-'",
+      "$1 `-|.'   /_.          $4\\_|  $1 F",
+      "  /.-   .                _.<",
+      " /'    /.'             .'  `\\",
+      "  /L  /'   |/      _.-'-\\",
+      " /'J       ___.---'\\|",
+      "   |\\  .--' V  | `. `",
+      "   |/`. `-.     `._)",
+      "      / .-.\\",
+      "      \\ (  `\\",
+      "       `.\\"
+    ]
+  },
+  "netbsd": {
+    "aliases": [
+      "netbsd"
+    ],
+    "colors": [
+      "31",
+      "37"
+    ],
+    "lines": [
+      "$1                     `-/oshdmNMNdhyo+:-`",
+      "$2y$1/s+:-``    `.-:+oydNMMMMNhs/-``",
+      "$2-m+$1NMMMMMMMMMMMMMMMMMMMNdhmNMMMmdhs+/-`",
+      " $2-m+$1NMMMMMMMMMMMMMMMMMMMMmy+:`",
+      "  $2-N/$1dMMMMMMMMMMMMMMMds:`",
+      "   $2-N/$1hMMMMMMMMMmho:`",
+      "    $2-N/$1-:/++/:.`",
+      "$2     :M+",
+      "      :Mo",
+      "       :Ms",
+      "        :Ms",
+      "         :Ms",
+      "          :Ms",
+      "           :Ms",
+      "            :Ms",
+      "             :Ms",
+      "              :Ms"
+    ]
+  },
+  "dragonfly": {
+    "aliases": [
+      "dragonfly"
+    ],
+    "colors": [
+      "31",
+      "39"
+    ],
+    "lines": [
+      "$2,--,           $1|           $2,--,",
+      "$2|   `-,       $1,^,       $2,-'   |",
+      "$2 `,    `-,   $1(/ \\)   $2,-'    ,'",
+      "$2   `-,    `-,$1/   \\$2,-'    ,-'",
+      "$2      `------$1(   )$2------'",
+      "$2  ,----------$1(   )$2----------,",
+      "$2 |        _,-$1(   )$2-,_        |",
+      "$2  `-,__,-'   $1\\   /$2   `-,__,-'",
+      "$1              | |",
+      "              | |",
+      "              | |",
+      "              | |",
+      "              | |",
+      "              | |",
+      "              `|'"
+    ]
+  },
+  "macos": {
+    "aliases": [
+      "apple",
+      "macos",
+      "darwin",
+      "osx"
+    ],
+    "colors": [
+      "32",
+      "33",
+      "91",
+      "31",
+      "35",
+      "34"
+    ],
+    "lines": [
+      "                     ..'",
+      "                 ,xNMM.",
+      "               .OMMMMo",
+      "               lMM\"",
+      "     .;loddo:.  .olloddol;.",
+      "   cKMMMMMMMMMMNWMMMMMMMMMM0:",
+      " $2.KMMMMMMMMMMMMMMMMMMMMMMMWd.",
+      " XMMMMMMMMMMMMMMMMMMMMMMMX.",
+      "$3;MMMMMMMMMMMMMMMMMMMMMMMM:",
+      ":MMMMMMMMMMMMMMMMMMMMMMMM:",
+      "$4.MMMMMMMMMMMMMMMMMMMMMMMMX.",
+      " kMMMMMMMMMMMMMMMMMMMMMMMMWd.",
+      " $5'XMMMMMMMMMMMMMMMMMMMMMMMMMMk",
+      "  'XMMMMMMMMMMMMMMMMMMMMMMMMK.",
+      "    $6kMMMMMMMMMMMMMMMMMMMMMMd",
+      "     ;KMMMMMMMWXXWMMMMMMMk.",
+      "       \"cooc*\"    \"*coo'\""
+    ]
+  },
+  "windows_11": {
+    "aliases": [
+      "windows 11",
+      "windows server 2022",
+      "windows_11"
+    ],
+    "colors": [
+      "34",
+      "34",
+      "34",
+      "34"
+    ],
+    "lines": [
+      "$1/////////////////  $2/////////////////",
+      "$1/////////////////  $2/////////////////",
+      "$1/////////////////  $2/////////////////",
+      "$1/////////////////  $2/////////////////",
+      "$1/////////////////  $2/////////////////",
+      "$1/////////////////  $2/////////////////",
+      "$1/////////////////  $2/////////////////",
+      "$1/////////////////  $2/////////////////",
+      "",
+      "$3/////////////////  $4/////////////////",
+      "$3/////////////////  $4/////////////////",
+      "$3/////////////////  $4/////////////////",
+      "$3/////////////////  $4/////////////////",
+      "$3/////////////////  $4/////////////////",
+      "$3/////////////////  $4/////////////////",
+      "$3/////////////////  $4/////////////////",
+      "$3/////////////////  $4/////////////////"
+    ]
+  },
+  "windows_8": {
+    "aliases": [
+      "windows 10",
+      "windows 8",
+      "windows 8.1",
+      "windows server 2012",
+      "windows server 2012 r2",
+      "windows server 2016",
+      "windows server 2019",
+      "windows_8"
+    ],
+    "colors": [
+      "36",
+      "36",
+      "36",
+      "36"
+    ],
+    "lines": [
+      "                                $2..,",
+      "                    ....,,:;+ccllll",
+      "$1      ...,,+:;  $2cllllllllllllllllll",
+      "$1,cclllllllllll  $2lllllllllllllllllll",
+      "$1llllllllllllll  $2lllllllllllllllllll",
+      "$1llllllllllllll  $2lllllllllllllllllll",
+      "$1llllllllllllll  $2lllllllllllllllllll",
+      "$1llllllllllllll  $2lllllllllllllllllll",
+      "$1llllllllllllll  $2lllllllllllllllllll",
+      "",
+      "$3llllllllllllll  $4lllllllllllllllllll",
+      "$3llllllllllllll  $4lllllllllllllllllll",
+      "$3llllllllllllll  $4lllllllllllllllllll",
+      "$3llllllllllllll  $4lllllllllllllllllll",
+      "$3llllllllllllll  $4lllllllllllllllllll",
+      "$3`'ccllllllllll  $4lllllllllllllllllll",
+      "$3       `' \\*::  $4:ccllllllllllllllll",
+      "                       ````''*::cll",
+      "                                 ``"
+    ]
+  },
+  "windows": {
+    "aliases": [
+      "windows",
+      "windows 7",
+      "windows server 2008",
+      "windows server 2008 r2"
+    ],
+    "colors": [
+      "31",
+      "32",
+      "34",
+      "33"
+    ],
+    "lines": [
+      "$1        ,.=:!!t3Z3z.,",
+      "       :tt:::tt333EE3",
+      "$1       Et:::ztt33EEEL$2 @Ee.,      ..,",
+      "$1      ;tt:::tt333EE7$2 ;EEEEEEttttt33#",
+      "$1     :Et:::zt333EEQ.$2 $EEEEEttttt33QL",
+      "$1     it::::tt333EEF$2 @EEEEEEttttt33F",
+      "$1    ;3=*^```\"*4EEV$2 :EEEEEEttttt33@.",
+      "$3    ,.=::::!t=., $1`$2 @EEEEEEtttz33QF",
+      "$3   ;::::::::zt33)$2   \"4EEEtttji3P*",
+      "$3  :t::::::::tt33.$4:Z3z..$2  ``$4 ,..g.",
+      "$3  i::::::::zt33F$4 AEEEtttt::::ztF",
+      "$3 ;:::::::::t33V$4 ;EEEttttt::::t3",
+      "$3 E::::::::zt33L$4 @EEEtttt::::z3F",
+      "$3{3=*^```\"*4E3)$4 ;EEEtttt:::::tZ`",
+      "$3             `$4 :EEEEtttt::::z7",
+      "                 \"VEzjt:;;z>*`"
+    ]
+  },
+  "windows_2025": {
+    "aliases": [
+      "windows server 2025",
+      "windows_2025"
+    ],
+    "colors": [
+      "34",
+      "34",
+      "34",
+      "34"
+    ],
+    "lines": [
+      "$1      ##%%%%%%%%%  $2%%%%%%%%%##",
+      "$1    ###%%%%%%%%%%  $2%%%%%%%%%%###",
+      "$1  ####%%%%%%%%%%%  $2%%%%%%%%%%%####",
+      "$1 ##%%%%%%%%%%%%%%  $2%%%%%%%%%%%%%%##",
+      "$1#%%%%%%%%%%%%%%%%  $2%%%%%%%%%%%%%%%%#",
+      "$1%%%%%%%%%%%%%%%%%  $2%%%%%%%%%%%%%%%%%",
+      "$1%%%%%%%%%%%%%%%%%  $2%%%%%%%%%%%%%%%%%",
+      "$1%%%%%%%%%%%%%%%%%  $2#%%%%%%%%%%%%%%%%",
+      "",
+      "$3%%%%%%%%%%%%%%%%%  $4#%%%%%%%%%%%%%%%%",
+      "$3%%%%%%%%%%%%%%%%%  $4%%%%%%%%%%%%%%%%%",
+      "$3%%%%%%%%%%%%%%%%%  $4%%%%%%%%%%%%%%%%%",
+      "$3%%%%%%%%%%%%%%%%%  $4%%%%%%%%%%%%%%%%#",
+      "$3 ###%%%%%%%%%%%%%  $4%%%%%%%%%%%%%%%##",
+      "$3  ####%%%%%%%%%%%  $4%%%%%%%%%%%#%####",
+      "$3    ##%#%%%%%%%%%  $4%%%%%%%%%%%######",
+      "$3      ##%%%%%%%%%  $4%%%%%%%%%########"
+    ]
+  },
+  "linux": {
+    "aliases": [
+      "linux",
+      "linux-generic"
+    ],
+    "colors": [
+      "37",
+      "90",
+      "33"
+    ],
+    "lines": [
+      "        $2#####",
+      "       $2#######",
+      "       $2##$1O$2#$1O$2##",
+      "       $2#$3#####$2#",
+      "     $2##$1##$3###$1##$2##",
+      "    $2#$1##########$2##",
+      "   $2#$1############$2##",
+      "   $2#$1############$2###",
+      "  $3##$2#$1###########$2##$3#",
+      "$3######$2#$1#######$2#$3######",
+      "$3#######$2#$1#####$2#$3#######",
+      "  $3#####$2#######$3#####"
+    ]
+  },
+  "unknown": {
+    "aliases": [
+      "unknown"
+    ],
+    "colors": [
+      "37"
+    ],
+    "lines": [
+      "       ________",
+      "   _jgN########Ngg_",
+      " _N##N@@\"\"  \"\"9NN##Np_",
+      "d###P            N####p",
+      "\"^^\"              T####",
+      "                  d###P",
+      "               _g###@F",
+      "            _gN##@P",
+      "          gN###F\"",
+      "         d###F",
+      "        0###F",
+      "        0###F",
+      "        0###F",
+      "        \"NN@'",
+      "",
+      "         ___",
+      "        q###r",
+      "         \"\""
+    ]
+  },
+  "artix": {
+    "aliases": [
+      "artix"
+    ],
+    "colors": [
+      "36"
+    ],
+    "lines": [
+      "                   '",
+      "                  'o'",
+      "                 'ooo'",
+      "                'ooxoo'",
+      "               'ooxxxoo'",
+      "              'oookkxxoo'",
+      "             'oiioxkkxxoo'",
+      "            ':;:iiiioxxxoo'",
+      "               `'.;::ioxxoo'",
+      "          '-.      `':;jiooo'",
+      "         'oooio-..     `'i:io'",
+      "        'ooooxxxxoio:,.   `'-;'",
+      "       'ooooxxxxxkkxoooIi:-.  `'",
+      "      'ooooxxxxxkkkkxoiiiiiji'",
+      "     'ooooxxxxxkxxoiiii:'`     .i'",
+      "    'ooooxxxxxoi:::'`       .;ioxo'",
+      "   'ooooxooi::'`         .:iiixkxxo'",
+      "  'ooooi:'`                `'';ioxxo'",
+      " 'i:'`                          '':io'",
+      "'`                                   `'"
+    ]
+  },
+  "arco": {
+    "aliases": [
+      "arco",
+      "arcolinux"
+    ],
+    "colors": [
+      "34",
+      "37"
+    ],
+    "lines": [
+      "                   /-",
+      "                  ooo:",
+      "                 yoooo/",
+      "                yooooooo",
+      "               yooooooooo",
+      "              yooooooooooo",
+      "            .yooooooooooooo",
+      "           .oooooooooooooooo",
+      "          .oooooooarcoooooooo",
+      "         .ooooooooo-oooooooooo",
+      "        .ooooooooo-  oooooooooo",
+      "       :ooooooooo.    :ooooooooo",
+      "      :ooooooooo.      :ooooooooo",
+      "     :oooarcooo         .oooarcooo",
+      "    :ooooooooy           .ooooooooo",
+      "   $1:ooooooooo   $2/ooooooooooooooooooo",
+      "  $1:ooooooooo      $2.-ooooooooooooooooo.",
+      "  $1ooooooooo-            $2-ooooooooooooo.",
+      " $1ooooooooo-                $2.-oooooooooo.",
+      "$1ooooooooo.                    $2-ooooooooo"
+    ]
+  },
+  "garuda": {
+    "aliases": [
+      "garuda"
+    ],
+    "colors": [
+      "31"
+    ],
+    "lines": [
+      "                   .%;888:8898898:",
+      "                 x;XxXB%89b8:b8%b88:",
+      "              .8Xxd                8X:.",
+      "            .8Xx;                    8x:.",
+      "          .tt8x          .d            x88;",
+      "       .@8x8;          .db:              xx@;",
+      "     ,tSXX°          .bbbbbbbbbbbbbbbbbbbB8x@;",
+      "   .SXxx            bBBBBBBBBBBBBBBBBBBBbSBX8;",
+      " ,888S                                     pd!",
+      "8X88/                                       q",
+      "8X88/",
+      "GBB.",
+      " x%88        d888@8@X@X@X88X@@XX@@X@8@X.",
+      "   dxXd    dB8b8b8B8B08bB88b998888b88x.",
+      "    dxx8o                      .@@;.",
+      "      dx88                   .t@x.",
+      "        d:SS@8ba89aa67a853Sxxad.",
+      "          .d988999889889899dd."
+    ]
+  },
+  "elementary": {
+    "aliases": [
+      "elementary"
+    ],
+    "colors": [
+      "39"
+    ],
+    "lines": [
+      "         eeeeeeeeeeeeeeeee",
+      "      eeeeeeeeeeeeeeeeeeeeeee",
+      "    eeeee  eeeeeeeeeeee   eeeee",
+      "  eeee   eeeee       eee     eeee",
+      " eeee   eeee          eee     eeee",
+      "eee    eee            eee       eee",
+      "eee   eee            eee        eee",
+      "ee    eee           eeee       eeee",
+      "ee    eee         eeeee      eeeeee",
+      "ee    eee       eeeee      eeeee ee",
+      "eee   eeee   eeeeee      eeeee  eee",
+      "eee    eeeeeeeeee     eeeeee    eee",
+      " eeeeeeeeeeeeeeeeeeeeeeee    eeeee",
+      "  eeeeeeee eeeeeeeeeeee      eeee",
+      "    eeeee                 eeeee",
+      "      eeeeeee         eeeeeee",
+      "         eeeeeeeeeeeeeeeee"
+    ]
+  },
+  "zorin": {
+    "aliases": [
+      "zorin"
+    ],
+    "colors": [
+      "34"
+    ],
+    "lines": [
+      "        `osssssssssssssssssssso`",
+      "       .osssssssssssssssssssssso.",
+      "      .+oooooooooooooooooooooooo+.",
+      "",
+      "",
+      "  `::::::::::::::::::::::.         .:`",
+      " `+ssssssssssssssssss+:.`     `.:+ssso`",
+      ".ossssssssssssssso/.       `-+ossssssso.",
+      "ssssssssssssso/-`      `-/osssssssssssss",
+      ".ossssssso/-`      .-/ossssssssssssssso.",
+      " `+sss+:.      `.:+ssssssssssssssssss+`",
+      "  `:.         .::::::::::::::::::::::`",
+      "",
+      "",
+      "      .+oooooooooooooooooooooooo+.",
+      "       -osssssssssssssssssssssso-",
+      "        `osssssssssssssssssssso`"
+    ]
+  },
+  "kubuntu": {
+    "aliases": [
+      "kde-ubuntu",
+      "kubuntu",
+      "kubuntu-linux"
+    ],
+    "colors": [
+      "34",
+      "37"
+    ],
+    "lines": [
+      "$1           `.:/ossyyyysso/:.",
+      "        .:oyyyyyyyyyyyyyyyyyyo:`",
+      "      -oyyyyyyyo$2dMMy$1yyyyyyysyyyyo-",
+      "    -syyyyyyyyyy$2dMMy$1oyyyy$2dmMMy$1yyyys-",
+      "   oyyys$2dMy$1syyyy$2dMMMMMMMMMMMMMy$1yyyyyyo",
+      " `oyyyy$2dMMMMy$1syysoooooo$2dMMMMy$1yyyyyyyyo`",
+      " oyyyyyy$2dMMMMy$1yyyyyyyyyyys$2dMMy$1sssssyyyo",
+      "-yyyyyyyy$2dMy$1syyyyyyyyyyyyyys$2dMMMMMy$1syyy-",
+      "oyyyysoo$2dMy$1yyyyyyyyyyyyyyyyyy$2dMMMMy$1syyyo",
+      "yyys$2dMMMMMy$1yyyyyyyyyyyyyyyyyysosyyyyyyyy",
+      "yyys$2dMMMMMy$1yyyyyyyyyyyyyyyyyyyyyyyyyyyyy",
+      "oyyyyysos$2dy$1yyyyyyyyyyyyyyyyyy$2dMMMMy$1syyyo",
+      "-yyyyyyyy$2dMy$1syyyyyyyyyyyyyys$2dMMMMMy$1syyy-",
+      " oyyyyyy$2dMMMy$1syyyyyyyyyyys$2dMMy$1oyyyoyyyo",
+      " `oyyyy$2dMMMy$1syyyoooooo$2dMMMMy$1oyyyyyyyyo",
+      "   oyyysyyoyyyys$2dMMMMMMMMMMMy$1yyyyyyyo",
+      "    -syyyyyyyyy$2dMMMy$1syyy$2dMMMy$1syyyys-",
+      "      -oyyyyyyy$2dMMy$1yyyyyysosyyyyo-",
+      "        ./oyyyyyyyyyyyyyyyyyyo/.",
+      "           `.:/oosyyyysso/:.`"
+    ]
+  },
+  "xubuntu": {
+    "aliases": [
+      "xubuntu"
+    ],
+    "colors": [
+      "38;5;25",
+      "39"
+    ],
+    "lines": [
+      "             __ygg@@@@@@@@@ggy__",
+      "         _yg@@@@@@@@@@@@@@@@@@@@@gy_",
+      "      _a@@@@@@@@@@@@@@@@@@@@@@@@@@@@@y_",
+      "    _a@@@@@@@@@@@@@@@@@@@@@@@$2#$1@@@@@@@@@g_",
+      "   a@@@@@@@@@@@@@$2###$1@@@@@@@@$2##$1@@@@$2##$1@@@@@k",
+      "  g@@@@@@@$2###$1@@@$2#####$1@@@@@@@$2##$1@@$2###$1@@@@@@@k",
+      " a@@@@@@@@$2#####$1@$2#####$1@@@@@@$2##$1@@$2###$1@@@@@@@@@k",
+      "j@@@@@@@@@$2############$1@@@@@$2##$1@$2###$1@@@@@@@@@@@k",
+      "g@@@@@@@@@$2#####################$1@@@@@@@@@@@@@@",
+      "@@@@@@@@@$2##########################$1@@@@@@@@@@",
+      "0@@@@@@@@$2###########################$1@@@@@@@@@",
+      "~@@@@@@@$2############################$1@@@@@@@@F",
+      " 9@@@@@@$2##########################$1@@@@@@@@@P",
+      "  4@@@@@@$2######################$1@@@@@@@@@@@P",
+      "   ~@@@@@@$2################$1@@@@@@@@@@@@@@@F",
+      "    `4@@@@@@$2#######$1@@@@@@@@@@@@@@@@@@@@P`",
+      "      `~@@@@@@@@@@@@@@@@@@@@@@@@@@@@@F`",
+      "         ~~4@@@@@@@@@@@@@@@@@@@@@P~~",
+      "             `~~=R@@@@@@@@@P=~~~"
+    ]
+  },
+  "lubuntu": {
+    "aliases": [
+      "lubuntu"
+    ],
+    "colors": [
+      "34",
+      "37"
+    ],
+    "lines": [
+      "           `.:/ossyyyysso/:.",
+      "        `.:yyyyyyyyyyyyyyyyyy:.`",
+      "      .:yyyyyyyyyyyyyyyyyyyyyyyy:.",
+      "    .:yyyyyyyyyyyyyyyyyyyyyyyyyyyy:.",
+      "   -yyyyyyyyyyyyyy$2+hNMMMNh+$1yyyyyyyyy-",
+      "  :yy$2mNy+$1yyyyyyyy$2+Nmso++smMdhyysoo+$1yy:",
+      " -yy$2+MMMmmy$1yyyyyy$2hh$1yyyyyyyyyyyyyyyyyyy-",
+      ".yyyy$2NMN$1yy$2shhs$1yyy$2+o$1yyyyyyyyyyyyyyyyyyyy.",
+      ":yyyy$2oNM+$1yyyy$2+sso$1yyyyyyy$2ss$1yyyyyyyyyyyyy:",
+      ":yyyyy$2+dNs$1yyyyyyy$2++$1yyyyy$2oN+$1yyyyyyyyyyyy:",
+      ":yyyyy$2oMMmhysso$1yyyyyyyyyy$2mN+$1yyyyyyyyyyy:",
+      ":yyyyyy$2hMm$1yyyyy$2+++$1yyyyyyy$2+MN$1yyyyyyyyyyy:",
+      ".yyyyyyy$2ohmy+$1yyyyyyyyyyyyy$2NMh$1yyyyyyyyyy.",
+      " -yyyyyyyyyy$2++$1yyyyyyyyyyyy$2MMh$1yyyyyyyyy-",
+      "  :yyyyyyyyyyyyyyyyyyyyy$2+mMN+$1yyyyyyyy:",
+      "   -yyyyyyyyyyyyyyyyy$2+sdMMd+$1yyyyyyyy-",
+      "    .:yyyyyyyyy$2hmdmmNMNdy+$1yyyyyyyy:.",
+      "      .:yyyyyyy$2my$1yyyyyyyyyyyyyyy:.",
+      "        `.:yyyy$2s$1yyyyyyyyyyyyy:.`",
+      "           `.:/oosyyyysso/:.`"
+    ]
+  },
+  "ubuntu_mate": {
+    "aliases": [
+      "ubuntu mate",
+      "ubuntu-mate",
+      "ubuntu_mate"
+    ],
+    "colors": [
+      "32",
+      "37"
+    ],
+    "lines": [
+      "$1            .:/+oossssoo+/:.`",
+      "        `:+ssssssssssssssssss+:`",
+      "      -+sssssssssssssss$2y$1ssssssss+-",
+      "    .osssssssssssss$2yy$1ss$2mMmh$1ssssssso.",
+      "   /sssssssss$2ydmNNNmmd$1s$2mMMMMNdy$1sssss/",
+      " `+ssssssss$2hNNdy$1sssssss$2mMMMMNdy$1ssssss+`",
+      " +sssssss$2yNNh$1ss$2hmNNNNm$1s$2mMmh$1s$2ydy$1sssssss+",
+      "-sssss$2y$1ss$2Nm$1ss$2hNNh$1ssssss$2y$1s$2hh$1ss$2mMy$1sssssss-",
+      "+ssss$2yMNdy$1ss$2hMd$1ssssssssss$2hMd$1ss$2NN$1sssssss+",
+      "sssss$2yMMMMMmh$1sssssssssssss$2NM$1ss$2dMy$1sssssss",
+      "sssss$2yMMMMMmhy$1ssssssssssss$2NM$1ss$2dMy$1sssssss",
+      "+ssss$2yMNdy$1ss$2hMd$1ssssssssss$2hMd$1ss$2NN$1sssssss+",
+      "-sssss$2y$1ss$2Nm$1ss$2hNNh$1ssssssss$2dh$1ss$2mMy$1sssssss-",
+      " +sssssss$2yNNh$1ss$2hmNNNNm$1s$2mNmh$1s$2ymy$1sssssss+",
+      "  +ssssssss$2hNNdy$1sssssss$2mMMMMmhy$1ssssss+",
+      "   /sssssssss$2ydmNNNNmd$1s$2mMMMMNdh$1sssss/",
+      "    .osssssssssssss$2yy$1ss$2mMmdy$1sssssso.",
+      "      -+sssssssssssssss$2y$1ssssssss+-",
+      "        `:+ssssssssssssssssss+:`",
+      "            .:/+oossssoo+/:."
+    ]
+  },
+  "solus": {
+    "aliases": [
+      "solus",
+      "solus-linux"
+    ],
+    "colors": [
+      "34",
+      "37"
+    ],
+    "lines": [
+      "$2            -```````````",
+      "          `-+/------------.`",
+      "       .---:mNo---------------.",
+      "     .-----yMMMy:---------------.",
+      "   `------oMMMMMm/----------------`",
+      "  .------/MMMMMMMN+----------------.",
+      " .------/NMMMMMMMMm-+/--------------.",
+      "`------/NMMMMMMMMMN-:mh/-------------`",
+      ".-----/NMMMMMMMMMMM:-+MMd//oso/:-----.",
+      "-----/NMMMMMMMMMMMM+--mMMMh::smMmyo:--",
+      "----+NMMMMMMMMMMMMMo--yMMMMNo-:yMMMMd/.",
+      ".--oMMMMMMMMMMMMMMMy--yMMMMMMh:-yMMMy-`",
+      "`-sMMMMMMMMMMMMMMMMh--dMMMMMMMd:/Ny+y.",
+      "`-/+osyhhdmmNNMMMMMm-/MMMMMMMmh+/ohm+",
+      "  .------------:://+-/++++++$1oshddys:",
+      "   -hhhhyyyyyyyyyyyhhhhddddhysssso-",
+      "    `:ossssssyysssssssssssssssso:`",
+      "      `:+ssssssssssssssssssss+-",
+      "         `-/+ssssssssssso+/-`",
+      "              `.-----..`"
+    ]
+  },
+  "arch_small": {
+    "aliases": [
+      "arch_small"
+    ],
+    "colors": [
+      "36",
+      "36"
+    ],
+    "lines": [
+      "      /\\",
+      "     /  \\",
+      "    /    \\",
+      "   /      \\",
+      "$2  /   ,,   \\",
+      " /   |  |   \\",
+      "/_-''    ''-_\\"
+    ]
+  },
+  "ubuntu_small": {
+    "aliases": [
+      "ubuntu_small"
+    ],
+    "colors": [
+      "31",
+      "31"
+    ],
+    "lines": [
+      "       $2..;,; $1.,;,.",
+      "    $2.,lool: $1.ooooo,",
+      "   $2;oo;:    $1.coool.",
+      " $1....         $1''' $2,l;",
+      "$1:oooo,            $2'oo.",
+      "$1looooc            $2:oo'",
+      " $1'::'             $2,oo:",
+      "   $2,.,       $1.... $2co,",
+      "    $2lo:;.   $1:oooo; $2.",
+      "     $2':ooo; $1cooooc",
+      "        $2'''  $1''''"
+    ]
+  },
+  "debian_small": {
+    "aliases": [
+      "debian_small"
+    ],
+    "colors": [
+      "31"
+    ],
+    "lines": [
+      "  _____",
+      " /  __ \\",
+      "|  /    |",
+      "|  \\___-",
+      "-_",
+      "  --_"
+    ]
+  },
+  "fedora_small": {
+    "aliases": [
+      "fedora_small"
+    ],
+    "colors": [
+      "34"
+    ],
+    "lines": [
+      "        ,'''''.",
+      "       |   ,.  |",
+      "       |  |  '_'",
+      "  ,....|  |..",
+      ".'  ,_;|   ..'",
+      "|  |   |  |",
+      "|  ',_,'  |",
+      " '.     ,'",
+      "   '''''"
+    ]
+  },
+  "linuxmint_small": {
+    "aliases": [
+      "linuxmint_small"
+    ],
+    "colors": [
+      "32",
+      "37"
+    ],
+    "lines": [
+      " ____________________",
+      "|                    \\",
+      "|_  $2|   ___________ $1  |",
+      "  | $2|  /  __   __  \\$1  |",
+      "  | $2|  | |  | |  | |$1  |",
+      "  | $2|  | |  | |  | |$1  |",
+      "  | $2|  | |  | |  | |$1  |",
+      "  | $2|  \\_/  \\_/  | |$1  |",
+      "  | $2\\____________/_/$1  |",
+      "  \\___________________/"
+    ]
+  },
+  "manjaro_small": {
+    "aliases": [
+      "manjaro-arm_small",
+      "manjaro_small"
+    ],
+    "colors": [
+      "32"
+    ],
+    "lines": [
+      "||||||||| ||||",
+      "||||||||| ||||",
+      "||||      ||||",
+      "|||| |||| ||||",
+      "|||| |||| ||||",
+      "|||| |||| ||||",
+      "|||| |||| ||||"
+    ]
+  },
+  "endeavouros_small": {
+    "aliases": [
+      "endeavouros_small"
+    ],
+    "colors": [
+      "31",
+      "35",
+      "34"
+    ],
+    "lines": [
+      "          /$2o$3.",
+      "$1        /$2sssso$3-",
+      "$1      /$2ossssssso$3:",
+      "$1    /$2ssssssssssso$3+",
+      "$1  /$2ssssssssssssssso$3+",
+      "$1//$2osssssssssssssso$3+-",
+      " `+++++++++++++++-`"
+    ]
+  },
+  "alpine_small": {
+    "aliases": [
+      "alpine_small"
+    ],
+    "colors": [
+      "34",
+      "37"
+    ],
+    "lines": [
+      "   /\\ /\\",
+      "  // \\  \\",
+      " //   \\  \\",
+      "///    \\  \\",
+      "//      \\  \\",
+      "         \\"
+    ]
+  },
+  "opensuse_small": {
+    "aliases": [
+      "opensuse_small"
+    ],
+    "colors": [
+      "32"
+    ],
+    "lines": [
+      "  _______",
+      "__|   __ \\",
+      "     / .\\ \\",
+      "     \\__/ |",
+      "   _______|",
+      "   \\_______",
+      "__________/"
+    ]
+  },
+  "opensuse_tumbleweed_small": {
+    "aliases": [
+      "opensuse-tumbleweed_small",
+      "opensuse_tumbleweed_small"
+    ],
+    "colors": [
+      "39"
+    ],
+    "lines": [
+      " .oooo.",
+      "o   o  o",
+      "ooooo  oo",
+      "o      oo",
+      " 'oooooooooooo.",
+      "       oo      o",
+      "       oo  ooooo",
+      "        o  o   o",
+      "         'oooo'"
+    ]
+  },
+  "gentoo_small": {
+    "aliases": [
+      "gentoo_small"
+    ],
+    "colors": [
+      "35",
+      "37"
+    ],
+    "lines": [
+      " _-----_",
+      "(       \\",
+      "\\    0   \\",
+      " $2\\        )",
+      " /      _/",
+      "(     _-",
+      "\\____-"
+    ]
+  },
+  "kali_small": {
+    "aliases": [
+      "kali_small"
+    ],
+    "colors": [
+      "34",
+      "90"
+    ],
+    "lines": [
+      "     -#. #",
+      "      @###",
+      "  -######",
+      " @#########",
+      "=##.  .#####",
+      "##      ## ##",
+      "##       ## #",
+      "##       @###",
+      "##.        ###",
+      " ##%       ##-",
+      "  -##%    -*",
+      "   :*##+",
+      "     :*#*",
+      "       -#",
+      "        @",
+      "        :"
+    ]
+  },
+  "pop_small": {
+    "aliases": [
+      "pop_small",
+      "popos_small"
+    ],
+    "colors": [
+      "36"
+    ],
+    "lines": [
+      "______",
+      "\\   _ \\        __",
+      " \\ \\ \\ \\      / /",
+      "  \\ \\_\\ \\    / /",
+      "   \\  ___\\  /_/",
+      "    \\ \\    _",
+      "   __\\_\\__(_)_",
+      "  (___________)`"
+    ]
+  },
+  "void_small": {
+    "aliases": [
+      "void_small"
+    ],
+    "colors": [
+      "32"
+    ],
+    "lines": [
+      "    ____",
+      "  'pfPfp.%",
+      "//  _._  \\\\",
+      "UU |===| UU",
+      "\\\\  ^~^  //",
+      " `0PpppP'",
+      "   `````"
+    ]
+  },
+  "rocky_small": {
+    "aliases": [
+      "rocky_small"
+    ],
+    "colors": [
+      "32"
+    ],
+    "lines": [
+      "    `-/+++++++++/-.`",
+      " `-+++++++++++++++++-`",
+      ".+++++++++++++++++++++.",
+      "-+++++++++++++++++++++++.",
+      "+++++++++++++++/-/+++++++",
+      "+++++++++++++/.   ./+++++",
+      "+++++++++++:.       ./+++",
+      "+++++++++:`   `:/:`   .:/",
+      "-++++++:`   .:+++++:`",
+      " .+++-`   ./+++++++++:`",
+      "  `-`   ./+++++++++++-",
+      "       -+++++++++:-.`"
+    ]
+  },
+  "centos_small": {
+    "aliases": [
+      "centos_small"
+    ],
+    "colors": [
+      "33",
+      "32",
+      "34",
+      "35"
+    ],
+    "lines": [
+      " $2____$1^$4____",
+      " $2|\\  $1|$4  /|",
+      " $2| \\ $1|$4 / |",
+      "$4<---- $3---->",
+      " $3| / $2|$1 \\ |",
+      " $3|/__$2|$1__\\|",
+      "     $2v"
+    ]
+  },
+  "rhel_small": {
+    "aliases": [
+      "redhat_small",
+      "rhel_small"
+    ],
+    "colors": [
+      "31"
+    ],
+    "lines": [
+      "      .M.:MMM",
+      "     MMMMMMMMMM.",
+      "    ,MMMMMMMMMMM",
+      " .MM MMMMMMMMMMM",
+      "MMMM   MMMMMMMMM",
+      "MMMMMM           MM",
+      " MMMMMMMMM     ,MMMM",
+      "   MMMMMMMMMMMMMMMM:",
+      "      `MMMMMMMMMMMM"
+    ]
+  },
+  "raspbian_small": {
+    "aliases": [
+      "raspbian_small"
+    ],
+    "colors": [
+      "31",
+      "32"
+    ],
+    "lines": [
+      "   $2.~~.   .~~.",
+      "  '. \\ ' ' / .'$1",
+      "   .~ .~~~..~.",
+      "  : .~.'~'.~. :",
+      " ~ (   ) (   ) ~",
+      "( : '~'.~.'~' : )",
+      " ~ .~ (   ) ~. ~",
+      "  (  : '~' :  )",
+      "   '~ .~~~. ~'",
+      "       '~'"
+    ]
+  },
+  "redos_small": {
+    "aliases": [
+      "redos_small"
+    ],
+    "colors": [
+      "31",
+      "37"
+    ],
+    "lines": [
+      "╭─────╮ ╭─────╮",
+      "│     │ │     │",
+      "│     │ │     │",
+      "╰─────╯ ╰─────╯",
+      "╭─────╮        ",
+      "│     │        ",
+      "│     │        ",
+      "╰─────╯        "
+    ]
+  },
+  "freebsd_small": {
+    "aliases": [
+      "freebsd_small"
+    ],
+    "colors": [
+      "31"
+    ],
+    "lines": [
+      "$1/\\,-'''''-,/\\",
+      "\\_)       (_/",
+      "|           |",
+      "|           |",
+      " ;         ;",
+      "  '-_____-'"
+    ]
+  },
+  "openbsd_small": {
+    "aliases": [
+      "openbsd_small"
+    ],
+    "colors": [
+      "33",
+      "37"
+    ],
+    "lines": [
+      "      _____",
+      "    \\-     -/",
+      " \\_/         \\",
+      " |        $2O O$1 |",
+      " |_  <   )  3 )",
+      " / \\         /",
+      "    /-_____-\\"
+    ]
+  },
+  "netbsd_small": {
+    "aliases": [
+      "netbsd_small"
+    ],
+    "colors": [
+      "31",
+      "37"
+    ],
+    "lines": [
+      "$2 \\\\$1`-______,----__",
+      "$2  \\\\       $1 __,---`_",
+      "$2   \\\\      $1 `.____",
+      "$2    \\\\$1-______,----`-",
+      "$2     \\\\",
+      "$2      \\\\",
+      "$2       \\\\",
+      "$2        \\\\"
+    ]
+  },
+  "dragonfly_small": {
+    "aliases": [
+      "dragonfly_small"
+    ],
+    "colors": [
+      "31",
+      "39"
+    ],
+    "lines": [
+      "$2   ,$1_$2,",
+      "('-_$1|$2_-')",
+      " >--$1|$2--<",
+      "(_-'$1|$2'-_)",
+      "    $1|",
+      "    |",
+      "    |"
+    ]
+  },
+  "macos_small": {
+    "aliases": [
+      "apple_small",
+      "macos_small"
+    ],
+    "colors": [
+      "32",
+      "33",
+      "31",
+      "35",
+      "34"
+    ],
+    "lines": [
+      "$1        .:'",
+      "    __ :'__",
+      "$2 .'`__`-'__``.",
+      "$3:__________.-'",
+      "$4:_________:",
+      " :_________`-;",
+      "$5  `.__.-.__.'"
+    ]
+  },
+  "windows_11_small": {
+    "aliases": [
+      "windows 11_small",
+      "windows_11_small"
+    ],
+    "colors": [
+      "34",
+      "34",
+      "34",
+      "34"
+    ],
+    "lines": [
+      "$1lllllll  $2lllllll",
+      "$1lllllll  $2lllllll",
+      "$1lllllll  $2lllllll",
+      "",
+      "$3lllllll  $4lllllll",
+      "$3lllllll  $4lllllll",
+      "$3lllllll  $4lllllll"
+    ]
+  },
+  "linux_small": {
+    "aliases": [
+      "linux-generic_small",
+      "linux_small"
+    ],
+    "colors": [
+      "30",
+      "37",
+      "33"
+    ],
+    "lines": [
+      "    $1___",
+      "   ($2.. $1\\",
+      "   ($3<> $1|",
+      "  /$2/  \\ $1\\",
+      " ( $2|  | $1/|",
+      "$3_$1/\\ $2__)$1/$3_$1)",
+      "$3\\/$1-____$3\\/"
+    ]
+  },
+  "artix_small": {
+    "aliases": [
+      "artix_small"
+    ],
+    "colors": [
+      "36"
+    ],
+    "lines": [
+      "            '",
+      "           'A'",
+      "          'ooo'",
+      "         'ookxo'",
+      "         `ookxxo'",
+      "       '.   `ooko'",
+      "      'ooo`.   `oo'",
+      "     'ooxxxoo`.   `'",
+      "    'ookxxxkooo.`   .",
+      "   'ookxxkoo'`   .'oo'",
+      "  'ooxoo'`     .:ooxxo'",
+      " 'io'`             `'oo'",
+      "'`                     `'"
+    ]
+  },
+  "arco_small": {
+    "aliases": [
+      "arco_small",
+      "arcolinux_small"
+    ],
+    "colors": [
+      "34",
+      "37"
+    ],
+    "lines": [
+      "          A",
+      "         ooo",
+      "        ooooo",
+      "       ooooooo",
+      "      ooooooooo",
+      "     ooooo ooooo",
+      "    ooooo   ooooo",
+      "   ooooo     ooooo",
+      "  ooooo  $2<oooooooo>$1",
+      " ooooo      $2<oooooo>$1",
+      "ooooo          $2<oooo>"
+    ]
+  },
+  "garuda_small": {
+    "aliases": [
+      "garuda-linux_small",
+      "garuda_small"
+    ],
+    "colors": [
+      "31"
+    ],
+    "lines": [
+      "     .----.",
+      "   .'   ,  '.",
+      " .'    '-----|",
+      "'.   -----,",
+      "  '.____.'"
+    ]
+  },
+  "elementary_small": {
+    "aliases": [
+      "elementary_small"
+    ],
+    "colors": [
+      "39"
+    ],
+    "lines": [
+      "  _______",
+      " / ____  \\",
+      "/  |  /  /\\",
+      "|__\\ /  / |",
+      "\\   /__/  /",
+      " \\_______/"
+    ]
+  }
+}

@@ -9,7 +9,7 @@ import zipfile
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-VERSION = "1.0.0"
+VERSION = "1.1.0"
 RUNTIME_VERSION = "2.2.0"
 ASSETS = {
     "linux-x64": "3b3b0a96e141d6758b74cbf492d5e5c11823bfd92318caff1aaa19bd500f1df7",
@@ -70,6 +70,7 @@ def build(platform, expected):
         shutil.copy2(ROOT / name, folder / name)
     shutil.copytree(ROOT / "licenses", folder / "licenses")
     shutil.copytree(ROOT / "docs", folder / "docs")
+    shutil.copytree(ROOT / "assets", folder / "assets")
     if platform == "linux-x64":
         (runtime / "oscript").chmod(0o755)
         launcher = folder / "onec-fetch"
