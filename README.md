@@ -4,6 +4,8 @@
 
 # onec-fetch
 
+<img width="1016" height="665" alt="изображение" src="https://github.com/user-attachments/assets/6b5d199c-a9d4-4682-b2d6-e0053ef7ee1a" />
+
 Аналог fastfetch на языке 1С / OneScript: системная сводка, 77 ASCII-логотипов и реестр всех 76 модулей fastfetch 2.69.0.
 
 ## Запуск
