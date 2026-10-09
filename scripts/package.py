@@ -9,7 +9,7 @@ import zipfile
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-VERSION = "2.0.0"
+VERSION = "2.1.0"
 RUNTIME_VERSION = "2.2.0"
 ASSETS = {
     "linux-x64": "3b3b0a96e141d6758b74cbf492d5e5c11823bfd92318caff1aaa19bd500f1df7",

@@ -7,7 +7,7 @@
 Установите скачанный файл:
 
 ```sh
-sudo pacman -U ./onec-fetch-2.0.0-1-x86_64.pkg.tar.zst
+sudo pacman -U ./onec-fetch-2.1.0-1-x86_64.pkg.tar.zst
 onec-fetch
 ```
 
@@ -18,7 +18,7 @@ PKGBUILD и `.SRCINFO` находятся в [`packaging/arch`](../packaging/arc
 Установите скачанный файл через APT, чтобы разрешить зависимости:
 
 ```sh
-sudo apt install ./onec-fetch_2.0.0-1_amd64.deb
+sudo apt install ./onec-fetch_2.1.0-1_amd64.deb
 onec-fetch
 ```
 

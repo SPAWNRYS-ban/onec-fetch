@@ -1,6 +1,6 @@
 pkgbase = onec-fetch
 	pkgdesc = System information tool written in 1C / OneScript
-	pkgver = 2.0.0
+	pkgver = 2.1.0
 	pkgrel = 1
 	url = https://github.com/SPAWNRYS-ban/onec-fetch
 	arch = x86_64
@@ -36,13 +36,13 @@ pkgbase = onec-fetch
 	optdepends = btrfs-progs: Btrfs volume details
 	options = !strip
 	options = !debug
-	source = onec-fetch-2.0.0-linux-x64.tar.gz::https://github.com/SPAWNRYS-ban/onec-fetch/releases/download/v2.0.0/onec-fetch-2.0.0-linux-x64.tar.gz
+	source = onec-fetch-2.1.0-linux-x64.tar.gz::https://github.com/SPAWNRYS-ban/onec-fetch/releases/download/v2.1.0/onec-fetch-2.1.0-linux-x64.tar.gz
 	source = onec-fetch-launcher
 	source = onec-fetch.1
 	source = copyright
-	sha256sums = 8175789168c3f83727fcb83d4b9efb98b5689ed4aa0ad29e7023ddc1c2fddd31
+	sha256sums = 1362da1e33a5aec1c4d544a77554ddd7c90b15d614d0544b6e5606f113c91d41
 	sha256sums = e0092338a9b78194721708dbc79c0e6bc23faea49d60168f047a82b9190d5b2f
-	sha256sums = cdf0c43ff35d6fa2c626baeb8aad3e4c21a6d490e318c1339dfafc233bc63598
+	sha256sums = dc5c922cfa56dcca8025f986fc27482cd743784be2e76509cf9accaf799f972e
 	sha256sums = 8f405b7eaf361a8718df9a182dd130f91bf6fa857763c1556fe464553d241c20
 
 pkgname = onec-fetch

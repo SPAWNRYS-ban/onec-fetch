@@ -87,5 +87,5 @@ assert run("--logo=archlinux", "--no-color").splitlines()[1] == run("--logo=arch
 for option in ("--logo=does-not-exist", "--logo=", "--unknown"):
     result = subprocess.run([ENGINE, str(SCRIPT), option], capture_output=True)
     assert result.returncode == 2, option
-assert run("--version").strip() == "onec-fetch 2.0.0"
+assert run("--version").strip() == "onec-fetch 2.1.0"
 print(f"PASS: {len(CATALOG)} logos (plain/color, full height, alignment), {len(cases)} OS selection cases, missing assets fallback, aliases, JSON and CLI flags.")

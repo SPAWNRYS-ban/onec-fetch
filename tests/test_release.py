@@ -11,7 +11,7 @@ import tempfile
 root_output = root / 'outputs'
 extract=root/'work/проверка portable 2 с пробелами'
 extract.mkdir(exist_ok=True)
-with tarfile.open(root_output / 'onec-fetch-2.0.0-linux-x64.tar.gz') as archive:
+with tarfile.open(root_output / 'onec-fetch-2.1.0-linux-x64.tar.gz') as archive:
     archive.extractall(extract, filter='data')
 app=extract/'onec-fetch/onec-fetch'
 env=dict(os.environ, PATH='/usr/bin:/bin', TERM='xterm-256color')
@@ -33,16 +33,16 @@ assert '\x1b[' in run()
 assert '\x1b[' not in run('--no-color')
 assert '1111111' not in run('--no-color','--no-logo')
 assert '\x1b[' not in run(env=dict(env,NO_COLOR=''))
-assert run('--version').strip()=='onec-fetch 2.0.0'
+assert run('--version').strip()=='onec-fetch 2.1.0'
 assert 'Запуск:' in run('--help')
 p=subprocess.run([str(app),'--unknown'],env=env,capture_output=True)
 assert p.returncode==2
-for name in ('README.md','LICENSE','docs/1c.md','assets/logos.json','licenses/fastfetch-MIT.txt','licenses/OneScript-MPL-2.0.txt','assets/logos.json','licenses/fastfetch-MIT.txt','lib/Engine.os','helpers/windows.ps1','config/example.jsonc'):
+for name in ('README.md','LICENSE','docs/1c.md','docs/native.md','docs/roadmap.md','assets/logos.json','licenses/fastfetch-MIT.txt','licenses/OneScript-MPL-2.0.txt','assets/logos.json','licenses/fastfetch-MIT.txt','lib/Engine.os','lib/native/Sampling.os','lib/native/Text.os','lib/native/JSONC.os','helpers/windows.ps1','config/example.jsonc'):
     assert (extract/'onec-fetch'/name).is_file(),name
-with zipfile.ZipFile(root_output / 'onec-fetch-2.0.0-windows-x64.zip') as archive:
+with zipfile.ZipFile(root_output / 'onec-fetch-2.1.0-windows-x64.zip') as archive:
     assert archive.testzip() is None
     names=archive.namelist()
-    for name in ('onec-fetch.cmd','onec-fetch.os','runtime/oscript.exe','runtime/coreclr.dll','LICENSE','docs/1c.md','assets/logos.json','licenses/fastfetch-MIT.txt','lib/Engine.os','helpers/windows.ps1','config/example.jsonc'):
+    for name in ('onec-fetch.cmd','onec-fetch.os','runtime/oscript.exe','runtime/coreclr.dll','LICENSE','docs/1c.md','docs/native.md','docs/roadmap.md','assets/logos.json','licenses/fastfetch-MIT.txt','lib/Engine.os','lib/native/Sampling.os','lib/native/Text.os','lib/native/JSONC.os','helpers/windows.ps1','config/example.jsonc'):
         assert 'onec-fetch/'+name in names,name
     launcher=archive.read('onec-fetch/onec-fetch.cmd')
     assert b'%~dp0runtime\\oscript.exe' in launcher and b'pause\r\n' in launcher
