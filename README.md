@@ -4,7 +4,7 @@
 
 ## Запуск
 
-Готовые сборки: [Releases](https://github.com/SPAWNRYS-ban/onec-fetch/releases/latest).
+Готовые сборки и пакеты `.pkg.tar.zst` / `.deb`: [Releases](https://github.com/SPAWNRYS-ban/onec-fetch/releases/latest). [Установка пакетов](docs/packages.md).
 
 - **Linux x64:** откройте терминал в папке и выполните `./onec-fetch`.
 - **Windows x64:** дважды нажмите `onec-fetch.cmd` — окно останется открытым.

@@ -1,0 +1,39 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: onec-fetch
+Source: https://github.com/SPAWNRYS-ban/onec-fetch
+
+Files: onec-fetch.os lib/* helpers/* packaging/*
+Copyright: 2026 SPAWNRYS
+License: MIT
+ Permission is hereby granted, free of charge, to any person obtaining a copy
+ of this software and associated documentation files (the "Software"), to deal
+ in the Software without restriction, including without limitation the rights
+ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ copies of the Software, and to permit persons to whom the Software is
+ furnished to do so, subject to the following conditions:
+ .
+ The above copyright notice and this permission notice shall be included in all
+ copies or substantial portions of the Software.
+ .
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+ SOFTWARE.
+
+Files: assets/*
+Copyright: fastfetch contributors
+License: MIT
+Comment: Full notice: /opt/onec-fetch/licenses/fastfetch-MIT.txt
+
+Files: runtime/*
+Copyright: OneScript contributors, .NET Foundation and runtime contributors
+License: MPL-2.0 and MIT and bundled-third-party-licenses
+Comment: Unmodified OneScript 2.2.0 self-contained runtime.
+ Sources: https://github.com/EvilBeaver/OneScript/tree/v2.2.0
+ https://github.com/dotnet/runtime/tree/v8.0.24
+ https://github.com/dotnet/aspnetcore/tree/v8.0.24
+ Full licenses, third-party notices and source links are installed in
+ /opt/onec-fetch/licenses/. No runtime source modifications are included.

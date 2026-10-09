@@ -1,0 +1,45 @@
+# Maintainer: SPAWNRYS-ban
+pkgname=onec-fetch
+pkgver=2.0.0
+pkgrel=1
+pkgdesc='System information tool written in 1C / OneScript'
+arch=('x86_64')
+url='https://github.com/SPAWNRYS-ban/onec-fetch'
+license=('MIT' 'MPL-2.0')
+depends=('glibc' 'libgcc' 'libstdc++' 'icu' 'krb5' 'libunwind' 'openssl' 'zlib'
+         'ca-certificates' 'tzdata' 'coreutils' 'procps-ng' 'pciutils' 'iproute2')
+optdepends=('qt6-tools: KDE display and MPRIS metadata'
+            'kscreen: KDE display modes'
+            'mesa-utils: OpenGL details'
+            'vulkan-tools: Vulkan details'
+            'clinfo: OpenCL details'
+            'nvidia-utils: NVIDIA memory and temperature'
+            'networkmanager: connected Wi-Fi details'
+            'libpulse: sound volume and devices'
+            'bluez-utils: Bluetooth details'
+            'playerctl: fallback media details'
+            'dmidecode: physical memory details'
+            'ddcutil: external display brightness'
+            'tpm2-tools: detailed TPM properties'
+            'btrfs-progs: Btrfs volume details')
+# Keep bundled ELF/.NET files untouched.
+options=('!strip' '!debug')
+source=("onec-fetch-${pkgver}-linux-x64.tar.gz::${url}/releases/download/v${pkgver}/onec-fetch-${pkgver}-linux-x64.tar.gz"
+        'onec-fetch-launcher' 'onec-fetch.1' 'copyright')
+sha256sums=(
+  '8175789168c3f83727fcb83d4b9efb98b5689ed4aa0ad29e7023ddc1c2fddd31'
+  'e0092338a9b78194721708dbc79c0e6bc23faea49d60168f047a82b9190d5b2f'
+  'cdf0c43ff35d6fa2c626baeb8aad3e4c21a6d490e318c1339dfafc233bc63598'
+  '8f405b7eaf361a8718df9a182dd130f91bf6fa857763c1556fe464553d241c20'
+)
+
+package() {
+    install -dm755 "$pkgdir/opt/onec-fetch"
+    cp -a "$srcdir/onec-fetch/." "$pkgdir/opt/onec-fetch/"
+    install -Dm755 "$srcdir/onec-fetch-launcher" "$pkgdir/usr/bin/onec-fetch"
+    install -Dm644 "$srcdir/onec-fetch.1" "$pkgdir/usr/share/man/man1/onec-fetch.1"
+    install -Dm644 "$srcdir/copyright" "$pkgdir/usr/share/doc/onec-fetch/copyright"
+    install -Dm644 "$srcdir/onec-fetch/README.md" "$pkgdir/usr/share/doc/onec-fetch/README.md"
+    install -Dm644 "$srcdir/onec-fetch/LICENSE" "$pkgdir/usr/share/licenses/onec-fetch/LICENSE"
+    cp -a "$srcdir/onec-fetch/licenses" "$pkgdir/usr/share/licenses/onec-fetch/runtime"
+}

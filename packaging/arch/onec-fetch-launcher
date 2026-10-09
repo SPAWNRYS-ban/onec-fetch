@@ -1,0 +1,2 @@
+#!/bin/sh
+exec /opt/onec-fetch/runtime/oscript /opt/onec-fetch/onec-fetch.os "$@"
